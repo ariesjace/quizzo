@@ -1499,384 +1499,379 @@
     "correct": "C",
     "rationale": "HBV + HDV SUPERINFECTION carries the WORST PROGNOSIS: A patient ALREADY chronically infected with HBV who then acquires HDV (superinfection) develops: (1) More severe ACUTE illness than co-infection; (2) HIGHER RISK OF FULMINANT HEPATITIS; (3) Almost ALWAYS develops CHRONIC HDV infection; (4) Greatly accelerated progression to CIRRHOSIS. Long-term HBV carriers who become superinfected with HDV also have the highest risk of developing cirrhosis and hepatocellular carcinoma."
   },
-  [
-  {
-    "num": 99,
-    "difficulty": "⭐ Easy",
-    "topic": "Topic 4: DNA Viruses Part 2 (Herpesviridae)",
-    "scenario": "A student summarizes herpesvirus structure for board exams.",
-    "question": "Which of the following BEST describes Herpesviridae?",
-    "options": {
-      "A": "Small RNA, naked viruses",
-      "B": "Large enveloped double-stranded DNA viruses",
-      "C": "Segmented RNA viruses",
-      "D": "Single-stranded DNA viruses"
-    },
-    "correct": "B",
-    "rationale": "Herpesviruses are large, enveloped viruses with linear double-stranded DNA."
-  },
-  {
-    "num": 100,
-    "difficulty": "⭐ Easy",
-    "topic": "Topic 4: DNA Viruses Part 2 (Herpesviridae)",
-    "scenario": "A virology exam asks about unique viral structures.",
-    "question": "Which structure is UNIQUE to herpesviruses?",
-    "options": {
-      "A": "Envelope",
-      "B": "Capsid",
-      "C": "Tegument",
-      "D": "Spikes"
-    },
-    "correct": "C",
-    "rationale": "The tegument is a protein layer unique to herpesviruses."
-  },
   {
     "num": 101,
-    "difficulty": "⭐ Easy",
-    "topic": "Topic 4: DNA Viruses Part 2 (Herpesviridae)",
-    "scenario": "A patient has recurrent cold sores.",
-    "question": "Which virus is MOST likely responsible?",
+    "difficulty": "\u2b25 Easy",
+    "topic": "Topic 5: Herpesviridae",
+    "scenario": "A virology student is reviewing the structural characteristics of herpesviruses for an upcoming board exam.",
+    "question": "Which of the following BEST describes the structural components of a herpesvirus virion?",
     "options": {
-      "A": "HSV-2",
-      "B": "HSV-1",
-      "C": "CMV",
-      "D": "EBV"
+      "A": "Nucleic acid core, capsid, tegument, and envelope",
+      "B": "Nucleic acid core, capsid, and envelope only",
+      "C": "Single-stranded RNA core with icosahedral capsid and no envelope",
+      "D": "Double-stranded RNA core with helical capsid and tegument"
     },
-    "correct": "B",
-    "rationale": "HSV-1 causes oral herpes."
+    "correct": "A",
+    "rationale": "Herpesviruses consist of FOUR structural components: (1) the nucleic acid core (linear dsDNA), (2) the icosahedral capsid, (3) the tegument \u2014 an asymmetric fibrous structure containing ~20 proteins surrounding the capsid, and (4) the envelope. This unique four-component architecture is a defining feature of all herpesviruses."
   },
   {
     "num": 102,
-    "difficulty": "⭐ Easy",
-    "topic": "Topic 4: DNA Viruses Part 2 (Herpesviridae)",
-    "scenario": "A patient presents with genital vesicles.",
-    "question": "Which virus is MOST commonly associated?",
+    "difficulty": "\u2b25 Easy",
+    "topic": "Topic 5: Herpesviridae",
+    "scenario": "A professor asks students to identify which herpesvirus subfamily establishes latency in neurons.",
+    "question": "Which herpesvirus subfamily establishes latent infections in NEURONS and includes herpes simplex virus and varicella-zoster virus?",
     "options": {
-      "A": "HSV-1",
-      "B": "HSV-2",
-      "C": "HHV-6",
-      "D": "EBV"
+      "A": "Betaherpesvirinae",
+      "B": "Gammaherpesvirinae",
+      "C": "Alphaherpesvirinae",
+      "D": "Roseolovirinae"
     },
-    "correct": "B",
-    "rationale": "HSV-2 is the primary cause of genital herpes."
+    "correct": "C",
+    "rationale": "Alphaherpesviruses (subfamily Alphaherpesvirinae) characteristically establish latent infections in NEURONS (sensory ganglia). This group includes HSV-1 (HHV-1), HSV-2 (HHV-2), and VZV (HHV-3). Betaherpesviruses become latent in secretory glands/kidneys (e.g., CMV), while Gammaherpesviruses become latent in lymphoid cells (e.g., EBV)."
   },
   {
     "num": 103,
-    "difficulty": "⭐ Easy",
-    "topic": "Topic 4: DNA Viruses Part 2 (Herpesviridae)",
-    "scenario": "A virus remains dormant and later reactivates.",
-    "question": "What is this defining property?",
+    "difficulty": "\u2b25 Easy",
+    "topic": "Topic 5: Herpesviridae",
+    "scenario": "During a clinical rotation, a medical technology student encounters a patient with painful cold sores on the lips. The attending physician explains which virus is responsible.",
+    "question": "A patient presents with recurrent vesicular lesions on the lips (herpes labialis). Which virus is MOST commonly responsible, and what is its typical site of latency?",
     "options": {
-      "A": "Mutation",
-      "B": "Latency",
-      "C": "Transformation",
-      "D": "Replication"
+      "A": "HSV-2; dorsal root ganglia",
+      "B": "HSV-1; Gasseri (trigeminal) ganglion",
+      "C": "VZV; dorsal root ganglia",
+      "D": "EBV; B lymphocytes"
     },
     "correct": "B",
-    "rationale": "Latency is a hallmark of herpesviruses."
+    "rationale": "HSV-1 (HHV-1) is the primary cause of orolabial herpes (cold sores/fever blisters). After primary infection at the oropharyngeal mucosa, HSV-1 establishes latency in the GASSERI GANGLION (also called the Gasserian or trigeminal ganglion). Reactivation causes recurrent cold sores. HSV-2 typically affects genital sites and establishes latency in sacral ganglia."
   },
   {
     "num": 104,
-    "difficulty": "⭐ Easy",
-    "topic": "Topic 4: DNA Viruses Part 2 (Herpesviridae)",
-    "scenario": "A student reviews HSV latency.",
-    "question": "HSV remains latent in which location?",
+    "difficulty": "\u2b25 Moderate",
+    "topic": "Topic 5: Herpesviridae",
+    "scenario": "A 26-year-old male presents with vesicular lesions on the shaft of the penis and prepuce. HSV infection is suspected.",
+    "question": "Regarding genital herpes caused by HSV-2, which statement is MOST accurate?",
     "options": {
-      "A": "Liver",
-      "B": "Sensory ganglia",
-      "C": "Bone marrow",
-      "D": "Kidney"
+      "A": "HSV-2 only infects males; HSV-1 is the exclusive cause in females",
+      "B": "In males, vesicles form on the shaft, prepuce, and glans penis; HSV-1 can also cause up to one-third of genital infections",
+      "C": "Genital herpes is exclusively caused by HSV-2 and cannot be caused by HSV-1",
+      "D": "The infectious period begins only after lesions are fully crusted"
     },
     "correct": "B",
-    "rationale": "HSV establishes latency in sensory ganglia."
+    "rationale": "In males, genital HSV-2 infection produces vesicles on the SHAFT, PREPUCE (foreskin), and GLANS PENIS. The urethra is commonly involved in both sexes. Importantly, although HSV-2 is the predominant cause, HSV-1 can cause as many as ONE-THIRD of genital herpes infections. The infectious period extends from onset of symptoms UNTIL lesions are fully crusted or resolved."
   },
   {
     "num": 105,
-    "difficulty": "⭐ Easy",
-    "topic": "Topic 4: DNA Viruses Part 2 (Herpesviridae)",
-    "scenario": "A newborn acquires HSV during delivery.",
-    "question": "What is this condition called?",
+    "difficulty": "\u2b25 Moderate",
+    "topic": "Topic 5: Herpesviridae",
+    "scenario": "A neonatal ICU nurse is reviewing which type of herpes encephalitis is most dangerous and who is most affected.",
+    "question": "Regarding herpes simplex encephalitis, which statement is CORRECT?",
     "options": {
-      "A": "Congenital herpes",
-      "B": "Herpes neonatorum",
-      "C": "Latent herpes",
-      "D": "Chronic herpes"
+      "A": "HSV-1 causes encephalitis in neonates; HSV-2 causes it in older children and adults",
+      "B": "HSV-2 causes encephalitis in neonates; HSV-1 causes it in older children and adults",
+      "C": "Both HSV-1 and HSV-2 equally affect all age groups with the same severity",
+      "D": "VZV is the most common cause of viral encephalitis, not HSV-1"
     },
     "correct": "B",
-    "rationale": "Neonatal HSV infection is called herpes neonatorum."
+    "rationale": "Herpes encephalitis has a distinct age-related pattern: HSV-2 causes encephalitis predominantly in NEONATES (acquired perinatally), while HSV-1 is the cause in OLDER CHILDREN AND ADULTS. HSV-1 is actually the MOST COMMONLY REPORTED viral CNS infection overall, spreading via the olfactory bulb (neurotropic spread). Without treatment, mortality can reach 80%."
   },
   {
     "num": 106,
-    "difficulty": "⭐ Easy",
-    "topic": "Topic 4: DNA Viruses Part 2 (Herpesviridae)",
-    "scenario": "A child develops chickenpox.",
-    "question": "Which virus causes this?",
+    "difficulty": "\u2b25 Moderate",
+    "topic": "Topic 5: Herpesviridae",
+    "scenario": "A laboratory technician receives a vesicle fluid swab from a suspected HSV patient and must select the appropriate diagnostic approach.",
+    "question": "Which of the following BEST describes the gold standard for laboratory diagnosis of HSV and the characteristic cytopathic effect (CPE) seen in culture?",
     "options": {
-      "A": "HSV",
-      "B": "CMV",
-      "C": "VZV",
-      "D": "EBV"
+      "A": "PCR is the gold standard; produces intracytoplasmic owl-eye inclusions",
+      "B": "Cell culture (A-549, MRC-5, or Vero cells) is the gold standard; produces rounding, refractile CPE within 1\u20132 days",
+      "C": "Tzanck smear is the gold standard; produces Cowdry type B inclusions",
+      "D": "ELISA is the gold standard; produces ballooning degeneration within 5\u20137 days"
     },
-    "correct": "C",
-    "rationale": "Varicella-zoster virus causes chickenpox."
+    "correct": "B",
+    "rationale": "CELL CULTURE has traditionally served as the gold standard for HSV diagnosis. HSV grows readily in A-549, MRC-5, or Vero cell lines and is fast-growing, producing characteristic ROUNDING, REFRACTILE CPE within 1\u20132 DAYS. Histopathologically, HSV produces Cowdry type A intranuclear inclusions, chromatin margination, and multinucleated giant cells. Tzanck smear is a rapid but less specific alternative used in smaller labs."
   },
   {
     "num": 107,
-    "difficulty": "⭐ Easy",
-    "topic": "Topic 4: DNA Viruses Part 2 (Herpesviridae)",
-    "scenario": "An adult develops shingles.",
-    "question": "Shingles is due to reactivation of:",
+    "difficulty": "\u2b25 Difficult",
+    "topic": "Topic 5: Herpesviridae",
+    "scenario": "A dermatologist performs a Tzanck smear from the base of a fresh vesicle from a patient with suspected HSV infection.",
+    "question": "Which histopathologic findings are CHARACTERISTIC of HSV infection on Tzanck smear and in cell culture?",
     "options": {
-      "A": "HSV",
-      "B": "CMV",
-      "C": "VZV",
-      "D": "EBV"
-    },
-    "correct": "C",
-    "rationale": "Shingles is reactivation of VZV."
-  },
-
-  {
-    "num": 108,
-    "difficulty": "⭐ Moderate",
-    "topic": "Topic 4: DNA Viruses Part 2 (Herpesviridae)",
-    "scenario": "A patient develops severe brain infection.",
-    "question": "Which condition is MOST associated with HSV?",
-    "options": {
-      "A": "Hepatitis",
-      "B": "Encephalitis",
-      "C": "Nephritis",
-      "D": "Arthritis"
+      "A": "Cowdry type B intranuclear inclusions, cytoplasmic inclusions, and uninucleated giant cells",
+      "B": "Cowdry type A intranuclear inclusions, chromatin margination, and multinucleated giant cells",
+      "C": "Owl-eye intranuclear inclusions with cytomegalic cells and no giant cells",
+      "D": "Intracytoplasmic inclusions with ballooning and mononuclear infiltrates"
     },
     "correct": "B",
-    "rationale": "HSV is a leading cause of viral encephalitis."
+    "rationale": "HSV produces distinctive histopathologic changes: (1) COWDRY TYPE A INTRANUCLEAR INCLUSION BODIES (not type B), (2) MARGINATION OF CHROMATIN to the nuclear periphery, (3) BALLOONING of infected cells, and (4) MULTINUCLEATED GIANT CELLS (syncytia). These findings are seen on Tzanck, Giemsa, or H&E staining of vesicle scrapings and can be confirmed with fluorescent antibodies specific to HSV-1 or HSV-2."
+  },
+  {
+    "num": 108,
+    "difficulty": "\u2b25 Easy",
+    "topic": "Topic 5: Herpesviridae",
+    "scenario": "A pediatrician explains to parents why their child's chickenpox rash began on the trunk and scalp before spreading elsewhere.",
+    "question": "Regarding the pathogenesis of VZV (Varicella-zoster virus), which sequence of events is CORRECT?",
+    "options": {
+      "A": "Skin infection \u2192 primary viremia at Day 4\u20136 \u2192 CNS latency \u2192 secondary viremia at Day 14",
+      "B": "Respiratory infection \u2192 lymph nodes \u2192 primary viremia at Day 4\u20136 \u2192 liver/spleen \u2192 secondary viremia at Day 14 \u2192 skin rash",
+      "C": "Direct skin inoculation \u2192 immediate vesicle formation \u2192 CNS invasion \u2192 zoster",
+      "D": "Blood inoculation \u2192 spleen \u2192 primary viremia at Day 1\u20132 \u2192 skin rash"
+    },
+    "correct": "B",
+    "rationale": "VZV pathogenesis follows a precise sequence: (1) VZV infects the CONJUNCTIVA or UPPER RESPIRATORY MUCOSA; (2) travels to LYMPH NODES; (3) PRIMARY VIREMIA at Days 4\u20136 via infected T cells; (4) infection of LIVER, SPLEEN, and other organs; (5) SECONDARY VIREMIA at Day 14; (6) skin infection producing the characteristic vesicular rash. Initial symptoms (fever, malaise) precede the maculopapular rash, which starts on the TRUNK AND SCALP."
   },
   {
     "num": 109,
-    "difficulty": "⭐ Moderate",
-    "topic": "Topic 4: DNA Viruses Part 2 (Herpesviridae)",
-    "scenario": "A lab examines HSV-infected cells.",
-    "question": "Which finding is characteristic?",
+    "difficulty": "\u2b25 Easy",
+    "topic": "Topic 5: Herpesviridae",
+    "scenario": "A 58-year-old immunocompetent patient develops a painful dermatomal rash with vesicles on one side of the chest. He had chickenpox as a child.",
+    "question": "Which condition is this patient MOST likely experiencing, and what is the underlying mechanism?",
     "options": {
-      "A": "Gram-positive rods",
-      "B": "Multinucleated giant cells",
-      "C": "Spores",
-      "D": "Capsules"
+      "A": "Primary chickenpox; first-time VZV infection via respiratory route",
+      "B": "Shingles (herpes zoster); reactivation of latent VZV from dorsal root ganglia",
+      "C": "Herpes simplex type 1; reactivation from Gasseri ganglion",
+      "D": "CMV reactivation; immunosuppression-induced"
     },
     "correct": "B",
-    "rationale": "HSV produces multinucleated giant cells."
+    "rationale": "This is SHINGLES (herpes zoster) \u2014 reactivation of latent VZV. After primary chickenpox, VZV establishes latency in SENSORY GANGLIA (dorsal root ganglia) of the CNS. Reactivation occurs predominantly in IMMUNOCOMPETENT individuals OLDER THAN 45 YEARS. It produces dermatomal vesicular lesions and may be complicated by POSTHERPETIC NEURALGIA (zoster sine herpete) \u2014 chronic debilitating pain persisting after lesion resolution."
   },
   {
     "num": 110,
-    "difficulty": "⭐ Moderate",
-    "topic": "Topic 4: DNA Viruses Part 2 (Herpesviridae)",
-    "scenario": "Histology shows Cowdry type A inclusions.",
-    "question": "Which virus is indicated?",
+    "difficulty": "\u2b25 Moderate",
+    "topic": "Topic 5: Herpesviridae",
+    "scenario": "A pharmacy student is reviewing the approved vaccines for varicella-zoster virus infection.",
+    "question": "Which statement about VZV vaccines is CORRECT?",
     "options": {
-      "A": "CMV",
-      "B": "HSV",
-      "C": "EBV",
-      "D": "HHV-7"
+      "A": "Zostavax (2006) is a two-dose recombinant subunit vaccine recommended for persons \u226550 years",
+      "B": "Shingrix (2017) is a single-dose attenuated vaccine recommended for persons \u226560 years",
+      "C": "Shingrix (2017) is a two-dose recombinant subunit adjuvanted vaccine; it is the only FDA-approved vaccine to prevent shingles and is recommended for persons \u226550 years",
+      "D": "Both Zostavax and Shingrix are equally recommended as two-dose vaccines for persons \u226550 years"
     },
-    "correct": "B",
-    "rationale": "Cowdry A inclusions are classic for HSV."
+    "correct": "C",
+    "rationale": "There are two VZV shingles vaccines: ZOSTAVAX (2006) is a SINGLE-DOSE attenuated vaccine; SHINGRIX (2017) is a TWO-DOSE recombinant SUBUNIT ADJUVANTED vaccine. Shingrix is CURRENTLY THE ONLY FDA-APPROVED vaccine for shingles prevention and is recommended for individuals \u226550 YEARS OLD. Treatment of VZV uses acyclovir and famciclovir; VZV latency site is the DORSAL ROOT GANGLIA."
   },
   {
     "num": 111,
-    "difficulty": "⭐ Moderate",
-    "topic": "Topic 4: DNA Viruses Part 2 (Herpesviridae)",
-    "scenario": "An immunocompromised patient develops retinitis.",
-    "question": "Which virus is MOST likely?",
+    "difficulty": "\u2b25 Moderate",
+    "topic": "Topic 5: Herpesviridae",
+    "scenario": "A pregnant woman at 12 weeks gestation is exposed to a child with active chickenpox. She has no history of prior VZV infection.",
+    "question": "What is the APPROPRIATE management and primary risk for this VZV-seronegative pregnant woman?",
     "options": {
-      "A": "HSV",
-      "B": "CMV",
-      "C": "EBV",
-      "D": "HHV-6"
+      "A": "No intervention needed; VZV is not dangerous in pregnancy",
+      "B": "Administer MMR vaccine; risk is miscarriage only",
+      "C": "Administer Zoster Immune Globulin (ZIG) or aciclovir prophylactically; risk is congenital varicella syndrome in 1\u20132% of cases if infected in the first 20 weeks",
+      "D": "Administer ganciclovir; risk is only during third trimester"
     },
-    "correct": "B",
-    "rationale": "CMV causes retinitis in immunocompromised patients."
+    "correct": "C",
+    "rationale": "For a VZV antibody-NEGATIVE pregnant woman, PROPHYLACTIC ZIG (Zoster Immune Globulin) or ACICLOVIR should be given. Chickenpox in the FIRST 20 WEEKS of pregnancy can result in CONGENITAL VARICELLA SYNDROME in 1\u20132% of cases. Additionally, babies born to mothers who develop chickenpox \u22647 DAYS before delivery are at significant risk of severe or fatal chickenpox and must receive prophylactic ZIG and/or aciclovir."
   },
   {
     "num": 112,
-    "difficulty": "⭐ Moderate",
-    "topic": "Topic 4: DNA Viruses Part 2 (Herpesviridae)",
-    "scenario": "A virus causes enlarged infected cells.",
-    "question": "Which virus shows cytomegaly?",
+    "difficulty": "\u2b25 Difficult",
+    "topic": "Topic 5: Herpesviridae",
+    "scenario": "A clinical laboratory receives a vesicle scraping from an immunosuppressed patient suspected to have VZV. The technologist must identify the best diagnostic approach.",
+    "question": "Which statement about VZV laboratory diagnosis is CORRECT?",
     "options": {
-      "A": "HSV",
-      "B": "CMV",
-      "C": "VZV",
-      "D": "EBV"
+      "A": "Lab diagnosis is recommended for all uncomplicated VZV cases in healthy children; PCR is not available",
+      "B": "Cell culture using MRC-5, HF, or A549 shows large clusters of ovoid cells; shell vial culture shows cytoplasmic apple-green fluorescence; multiplex PCR can detect multiple herpesviruses",
+      "C": "The gold standard is Tzanck smear with Cowdry type B inclusions; culture takes only 24 hours",
+      "D": "VZV is only diagnosed serologically; culture and PCR are not available"
     },
     "correct": "B",
-    "rationale": "CMV causes enlarged cells."
+    "rationale": "VZV lab diagnosis: (1) NOT recommended for uncomplicated VZV in healthy patients, but BENEFICIAL in immunosuppressed patients/neonates; (2) Cell culture uses MRC-5, HF, or A549 cells \u2014 shows small clusters of OVOID CELLS in fibroid cells; (3) SHELL VIAL CULTURES show CYTOPLASMIC APPLE-GREEN FLUORESCENCE under fluorescent microscopy; (4) MULTIPLEX PCR can detect multiple herpesviruses in a single specimen; (5) Traditional Tzanck smear uses Giemsa, H&E stain \u2014 shows INCLUSIONS AND GIANT CELLS."
   },
   {
     "num": 113,
-    "difficulty": "⭐ Moderate",
-    "topic": "Topic 4: DNA Viruses Part 2 (Herpesviridae)",
-    "scenario": "A child develops roseola.",
-    "question": "Which virus is responsible?",
+    "difficulty": "\u2b25 Easy",
+    "topic": "Topic 5: Herpesviridae",
+    "scenario": "A medical technology student is studying congenital infections and encounters the TORCH panel.",
+    "question": "Regarding Cytomegalovirus (CMV), which statement is CORRECT about its classification and clinical significance?",
     "options": {
-      "A": "HHV-6",
-      "B": "HSV",
-      "C": "CMV",
-      "D": "EBV"
+      "A": "CMV belongs to genus Lymphocryptovirus and is a common cause of Burkitt lymphoma",
+      "B": "CMV belongs to genus Cytomegalovirus (Betaherpesvirus), is a leading cause of congenital birth defects, and is included in the TORCH panel",
+      "C": "CMV belongs to genus Roseolovirus and causes roseola infantum",
+      "D": "CMV belongs to genus Simplexvirus and causes infectious mononucleosis"
     },
-    "correct": "A",
-    "rationale": "HHV-6 causes roseola."
+    "correct": "B",
+    "rationale": "CMV (Cytomegalovirus) belongs to the genus CYTOMEGALOVIRUS, subfamily BETAHERPESVIRINAE. The name derives from Latin 'cyto' (cell) and 'mega' (large) \u2014 reflecting its characteristic cytomegalic (massively enlarged) infected cells. CMV is a COMMON CAUSE OF CONGENITAL BIRTH DEFECTS and is included in the TORCH panel (Toxoplasma, Rubella, CMV, HSV-1). It establishes latency in WBCs, endothelial cells, and cells in various organs."
   },
-
   {
     "num": 114,
-    "difficulty": "⭐ Difficult",
-    "topic": "Topic 4: DNA Viruses Part 2 (Herpesviridae)",
-    "scenario": "A patient develops Kaposi sarcoma.",
-    "question": "Which virus is responsible?",
+    "difficulty": "\u2b25 Moderate",
+    "topic": "Topic 5: Herpesviridae",
+    "scenario": "A newborn presents with petechiae, hepatosplenomegaly, microcephaly, and chorioretinitis. CMV is suspected.",
+    "question": "Which statement about congenital CMV infection is MOST accurate?",
     "options": {
-      "A": "HHV-6",
-      "B": "HHV-7",
-      "C": "HHV-8",
-      "D": "HSV-1"
+      "A": "All congenitally infected infants are symptomatic at birth; none develop late sequelae",
+      "B": "40% of women with primary CMV transmit to their babies; approximately 90% of infected babies are asymptomatic at birth but may develop retinitis and deafness early in life",
+      "C": "Congenital CMV affects only immunocompromised mothers and causes only hearing loss",
+      "D": "Congenital CMV is transmitted only via breast milk and causes only microcephaly"
     },
-    "correct": "C",
-    "rationale": "HHV-8 is associated with Kaposi sarcoma."
+    "correct": "B",
+    "rationale": "Congenital CMV facts: (1) 40% of women with PRIMARY infection transmit to their baby; (2) Of infected babies: 1% have severe/fatal infection, 10% have mild symptoms; (3) APPROXIMATELY 90% are ASYMPTOMATIC AT BIRTH but may later develop RETINITIS and DEAFNESS; (4) SYMPTOMATIC congenital CMV presents with PETECHIAE, HEPATOSPLENOMEGALY, MICROCEPHALY, and CHORIORETINITIS; (5) CMV is one of the LEADING CAUSES of DEAFNESS and INTELLECTUAL IMPAIRMENT."
   },
   {
     "num": 115,
-    "difficulty": "⭐ Difficult",
-    "topic": "Topic 4: DNA Viruses Part 2 (Herpesviridae)",
-    "scenario": "A virus infects lymphocytes and causes malignancy.",
-    "question": "Which virus is responsible?",
+    "difficulty": "\u2b25 Moderate",
+    "topic": "Topic 5: Herpesviridae",
+    "scenario": "A virology lab receives a sample from an immunosuppressed transplant patient suspected of having CMV. The attending physician asks about the most specific and sensitive rapid test.",
+    "question": "Which CMV laboratory test detects the pp65 antigen in white blood cells and is considered SPECIFIC, SENSITIVE, RAPID, and EASY to perform?",
     "options": {
-      "A": "HSV",
-      "B": "EBV",
-      "C": "CMV",
-      "D": "VZV"
+      "A": "Shell vial culture \u2014 detects CMV within 24 hours",
+      "B": "Conventional cell culture \u2014 the gold standard for rapid CMV detection",
+      "C": "CMV antigenemia assay \u2014 detects 65-kDa lower matrix phosphoprotein (pp65) in peripheral WBCs",
+      "D": "Tzanck smear \u2014 detects owl-eye inclusions in peripheral blood"
     },
-    "correct": "B",
-    "rationale": "EBV is linked to lymphoid malignancies."
+    "correct": "C",
+    "rationale": "The CMV ANTIGENEMIA ASSAY detects the 65-kDa lower matrix phosphoprotein (PP65) in the NUCLEI OF INFECTED PERIPHERAL WHITE BLOOD CELLS using immunocytochemistry. It is SPECIFIC, SENSITIVE, RAPID, and RELATIVELY EASY to perform \u2014 and is MORE SENSITIVE AND RAPID than cell culture. It can also help assess antiviral therapy efficacy. CMV in conventional culture uses HUMAN DIPLOID FIBROBLAST cell lines and may take up to 3 WEEKS for CPE to appear."
   },
   {
     "num": 116,
-    "difficulty": "⭐ Difficult",
-    "topic": "Topic 4: DNA Viruses Part 2 (Herpesviridae)",
-    "scenario": "A patient has postherpetic neuralgia.",
-    "question": "This is associated with:",
+    "difficulty": "\u2b25 Difficult",
+    "topic": "Topic 5: Herpesviridae",
+    "scenario": "A transplant physician is considering antiviral prophylaxis for a CMV antibody-negative recipient who will receive an organ from a CMV-positive donor.",
+    "question": "Which is the DRUG OF CHOICE for treating CMV infection, and what is the appropriate prophylaxis regimen for solid organ transplant recipients?",
     "options": {
-      "A": "HSV",
-      "B": "CMV",
-      "C": "VZV",
-      "D": "EBV"
+      "A": "Acyclovir is the drug of choice; no prophylaxis is required for organ transplant patients",
+      "B": "Ganciclovir (IV 5mg/kg bd for 10\u201314 days) is the drug of choice; CMV-negative recipients of CMV-positive organs should receive 3 months of oral valganciclovir (900mg/day)",
+      "C": "Foscarnet is the drug of choice; prophylaxis requires acyclovir for 6 months",
+      "D": "Cidofovir is the drug of choice; prophylaxis uses interferon-alpha for 1 month"
     },
-    "correct": "C",
-    "rationale": "Postherpetic neuralgia follows shingles."
+    "correct": "B",
+    "rationale": "GANCICLOVIR is the DRUG OF CHOICE for CMV infection \u2014 IV 5mg/kg twice daily for 10\u201314 days. Treatment efficacy is monitored with QUANTITATIVE PCR. Alternative agents (foscarnet, cidofovir) are used for ganciclovir-resistant CMV. For PROPHYLAXIS: solid organ transplant patients (especially CMV-negative recipients of CMV-POSITIVE organs) should receive 3 months of ORAL VALGANCICLOVIR (900mg/day). Congenital CMV is best confirmed by CMV isolation from URINE within the first 2 weeks of life."
   },
   {
     "num": 117,
-    "difficulty": "⭐ Difficult",
-    "topic": "Topic 4: DNA Viruses Part 2 (Herpesviridae)",
-    "scenario": "A fetus is screened for infections.",
-    "question": "CMV belongs to which group?",
+    "difficulty": "\u2b25 Easy",
+    "topic": "Topic 5: Herpesviridae",
+    "scenario": "A 19-year-old college student presents with fever, severe sore throat, lymphadenopathy, and splenomegaly. A monospot test is positive.",
+    "question": "Which virus is responsible for infectious mononucleosis (IM), and what is its site of latency?",
     "options": {
-      "A": "STDs",
-      "B": "TORCH",
-      "C": "Enteric viruses",
-      "D": "Arboviruses"
+      "A": "CMV; latency in WBCs and endothelial cells",
+      "B": "HHV-6; latency in T lymphocytes (CD4 cells)",
+      "C": "EBV (HHV-4); genus Lymphocryptovirus; latency in B lymphocytes",
+      "D": "HSV-1; latency in Gasseri ganglion"
     },
-    "correct": "B",
-    "rationale": "CMV is part of TORCH infections."
+    "correct": "C",
+    "rationale": "EPSTEIN-BARR VIRUS (EBV, HHV-4) of genus LYMPHOCRYPTOVIRUS is responsible for INFECTIOUS MONONUCLEOSIS (IM) \u2014 the 'kissing disease' \u2014 spread via saliva and sexual contact. Incubation is 2 weeks to 2 months. EBV infects B LYMPHOCYTES (using complement receptor CR-2/CD21) and establishes latency there. Classic IM presents with FEVER, SORE THROAT, LYMPHADENOPATHY, SPLENOMEGALY, ATYPICAL LYMPHOCYTES (Downey cells), and mildly elevated ALT."
   },
   {
     "num": 118,
-    "difficulty": "⭐ Difficult",
-    "topic": "Topic 4: DNA Viruses Part 2 (Herpesviridae)",
-    "scenario": "A virus persists lifelong.",
-    "question": "Why do herpesviruses persist?",
+    "difficulty": "\u2b25 Moderate",
+    "topic": "Topic 5: Herpesviridae",
+    "scenario": "A laboratory technician is interpreting EBV serologic markers for a patient suspected to have acute infectious mononucleosis.",
+    "question": "Which serologic pattern is MOST consistent with ACUTE infectious mononucleosis due to EBV?",
     "options": {
-      "A": "Rapid mutation",
-      "B": "Latency and immune evasion",
-      "C": "Spore formation",
-      "D": "Extracellular replication"
+      "A": "PB negative, Anti-VCA IgM negative, Anti-VCA IgG positive, Anti-EBNA positive",
+      "B": "PB positive, Anti-VCA IgM positive, Anti-VCA IgG positive, Anti-EA IgG positive/negative, Anti-EBNA negative",
+      "C": "PB negative, Anti-VCA IgM negative, Anti-VCA IgG negative, Anti-EBNA negative",
+      "D": "PB negative, Anti-VCA IgM negative, Anti-VCA IgG positive, Anti-EBNA positive"
     },
     "correct": "B",
-    "rationale": "Latency allows lifelong persistence."
+    "rationale": "In ACUTE INFECTIOUS MONONUCLEOSIS: (1) PAUL-BUNNELL (PB/Monospot) = POSITIVE \u2014 heterophile IgM antibodies (including antibodies to sheep/horse RBCs); (2) Anti-VCA IgM = POSITIVE (indicates CURRENT infection); (3) Anti-VCA IgG = POSITIVE (appears in acute stage, persists for life); (4) Anti-EA IgG = POSITIVE or negative; (5) Anti-EBNA = NEGATIVE (appears ~1 month AFTER infection, peaks 6\u201312 months later \u2014 its ABSENCE distinguishes acute from past infection)."
   },
   {
     "num": 119,
-    "difficulty": "⭐ Difficult",
-    "topic": "Topic 4: DNA Viruses Part 2 (Herpesviridae)",
-    "scenario": "A lab confirms HSV infection.",
-    "question": "Best diagnostic method?",
+    "difficulty": "\u2b25 Moderate",
+    "topic": "Topic 5: Herpesviridae",
+    "scenario": "A pathology resident is reviewing malignancies associated with Epstein-Barr virus. A patient with a jaw mass from sub-Saharan Africa is biopsied.",
+    "question": "Which malignancy is MOST strongly associated with EBV and is commonly seen in African children?",
     "options": {
-      "A": "Gram stain",
-      "B": "PCR",
-      "C": "Culture only",
-      "D": "Acid-fast stain"
+      "A": "Kaposi sarcoma \u2014 associated with HHV-8 in African children",
+      "B": "Burkitt lymphoma \u2014 a malignant disease of lymphoid tissue most common in African children; also associated with Hodgkin disease and nasopharyngeal carcinoma",
+      "C": "Cervical carcinoma \u2014 caused by EBV in African women",
+      "D": "Hepatocellular carcinoma \u2014 associated with EBV in endemic African regions"
     },
     "correct": "B",
-    "rationale": "PCR is most sensitive."
+    "rationale": "EBV is associated with several malignancies: (1) BURKITT LYMPHOMA \u2014 a malignant disease of lymphoid tissue MOST COMMON IN AFRICAN CHILDREN; Anti-EA/R IgG is elevated in these patients; (2) HODGKIN DISEASE; (3) NASOPHARYNGEAL CARCINOMA (NPC) \u2014 patients with NPC have elevated IgG and IgA anti-EA/D antibodies. EBV can also cause a B-cell LYMPHOPROLIFERATIVE DISORDER and X-LINKED LYMPHOPROLIFERATIVE SYNDROME (Duncan's syndrome) in genetically susceptible males."
   },
   {
     "num": 120,
-    "difficulty": "⭐ Difficult",
-    "topic": "Topic 4: DNA Viruses Part 2 (Herpesviridae)",
-    "scenario": "A patient is treated for HSV.",
-    "question": "First-line drug?",
+    "difficulty": "\u2b25 Easy",
+    "topic": "Topic 5: Herpesviridae",
+    "scenario": "A 9-month-old infant develops a high fever for 3 days. As the fever breaks, a maculopapular rash appears on the trunk. HHV-6 is suspected.",
+    "question": "Which statement about Human Herpesvirus 6 (HHV-6) is CORRECT?",
     "options": {
-      "A": "Penicillin",
-      "B": "Acyclovir",
-      "C": "Amoxicillin",
-      "D": "Ribavirin"
+      "A": "HHV-6 is a B-lymphotropic virus in genus Lymphocryptovirus causing Burkitt lymphoma",
+      "B": "HHV-6 is a T-lymphotropic virus (CD4 cells) in genus Roseolovirus, causing roseola infantum (exanthema subitum/sixth disease); variant B causes disease",
+      "C": "HHV-6 is transmitted by mosquito bites and causes roseola in winter months only",
+      "D": "HHV-6 targets CD8 T cells and causes a mononucleosis-like illness in adults"
     },
     "correct": "B",
-    "rationale": "Acyclovir is standard treatment."
+    "rationale": "HHV-6 is a T-LYMPHOTROPIC virus targeting CD4 T LYMPHOCYTES, classified in genus ROSEOLOVIRUS. Human CD46 is its cellular receptor. VARIANT B causes disease. It causes ROSEOLA INFANTUM (exanthem subitum, THREE-DAY FEVER, SIXTH DISEASE \u2014 the 6th childhood rash). The disease is ACUTE and FEBRILE; a MACULOPAPULAR RASH appears AS THE FEVER RESOLVES. About 30\u201340% of symptomatic children experience SEIZURES. Transmission is via saliva (most common route), aerosol, and breast milk."
   },
   {
     "num": 121,
-    "difficulty": "⭐ Difficult",
-    "topic": "Topic 4: DNA Viruses Part 2 (Herpesviridae)",
-    "scenario": "A virus spreads via saliva and causes rash after fever.",
-    "question": "Which virus is described?",
+    "difficulty": "\u2b25 Moderate",
+    "topic": "Topic 5: Herpesviridae",
+    "scenario": "A medical student compares HHV-6 and HHV-7, noting their similarities and differences for an exam.",
+    "question": "Which statement BEST distinguishes HHV-7 from HHV-6?",
     "options": {
-      "A": "HHV-6",
-      "B": "HSV",
-      "C": "EBV",
-      "D": "CMV"
+      "A": "HHV-7 uses CD46 as its receptor and causes Kaposi sarcoma",
+      "B": "HHV-7 is in genus Roseolovirus with HHV-6, uses CD4 as its receptor, causes roseola, shed in saliva of 75% of adults, and is isolated in peripheral blood lymphocytes or cord blood lymphocytes",
+      "C": "HHV-7 targets B lymphocytes exclusively and has no known clinical disease",
+      "D": "HHV-7 causes encephalitis in immunosuppressed adults and is treated with acyclovir"
     },
-    "correct": "A",
-    "rationale": "HHV-6 causes roseola."
+    "correct": "B",
+    "rationale": "HHV-7 shares genus ROSEOLOVIRUS with HHV-6. Key features: (1) Uses the CD4 MOLECULE as its receptor to infect T lymphocytes; (2) Shed in saliva of 75% OF ADULTS; (3) Transmitted via aerosol, saliva (mother to baby), and breast milk; (4) Causes ROSEOLA; (5) Latency in T LYMPHOCYTES and salivary glands; (6) Isolated in PERIPHERAL BLOOD LYMPHOCYTES or CORD BLOOD LYMPHOCYTES in culture \u2014 rarely from peripheral blood mononuclear cells; (7) Detected by PCR. Distinction from HHV-6: HHV-6 uses CD46, HHV-7 uses CD4."
   },
   {
     "num": 122,
-    "difficulty": "⭐ Difficult",
-    "topic": "Topic 4: DNA Viruses Part 2 (Herpesviridae)",
-    "scenario": "A herpesvirus infects T cells.",
-    "question": "Which virus targets CD4 T lymphocytes?",
+    "difficulty": "\u2b25 Difficult",
+    "topic": "Topic 5: Herpesviridae",
+    "scenario": "An HIV-positive patient develops dark purplish lesions on the skin. Biopsy confirms Kaposi sarcoma. The attending physician discusses the causative herpesvirus.",
+    "question": "Regarding Human Herpesvirus 8 (HHV-8), which statement is MOST accurate?",
     "options": {
-      "A": "HSV",
-      "B": "HHV-6",
-      "C": "CMV",
-      "D": "VZV"
+      "A": "HHV-8 can be readily grown in routine cell culture; treatment of choice is acyclovir",
+      "B": "HHV-8 (genus Rhadinovirus) is associated with all forms of Kaposi sarcoma, primary effusion lymphomas, and multicentric Castleman disease; it cannot be recovered in cell culture; PCR is the primary detection method",
+      "C": "HHV-8 is transmitted exclusively by respiratory droplets and causes Kaposi sarcoma only in Africa",
+      "D": "HHV-8 establishes latency in dorsal root ganglia and is treated with ganciclovir alone"
     },
     "correct": "B",
-    "rationale": "HHV-6 infects CD4 T cells."
+    "rationale": "HHV-8 (genus RHADINOVIRUS, common name Kaposi sarcoma-associated herpesvirus) is detected in ALL FORMS of Kaposi sarcoma (AIDS-related, Mediterranean, African endemic, post-transplantation). It also causes PRIMARY EFFUSION LYMPHOMAS and MULTICENTRIC CASTLEMAN DISEASE. Key facts: (1) CANNOT BE RECOVERED in cell culture; (2) Primary detection via PCR assay (tissue, blood, bone marrow, saliva, semen); (3) Also detected by IN SITU HYBRIDIZATION and IMMUNOHISTOCHEMISTRY; (4) Transmitted primarily via SEXUAL CONTACT \u2014 MSM are more susceptible; (5) Treatment: foscarnet, ganciclovir, cidofovir."
   },
   {
     "num": 123,
-    "difficulty": "⭐ Difficult",
-    "topic": "Topic 4: DNA Viruses Part 2 (Herpesviridae)",
-    "scenario": "A herpesvirus is linked to transplant complications.",
-    "question": "Which virus becomes severe in immunocompromised patients?",
+    "difficulty": "\u2b25 Difficult",
+    "topic": "Topic 5: Herpesviridae",
+    "scenario": "A laboratory researcher working with macaque monkeys is bitten on the hand. He reports to the emergency room for evaluation and prophylaxis.",
+    "question": "Regarding Herpes B Virus (cercopithecine herpesvirus 1), which statement is CORRECT?",
     "options": {
-      "A": "HSV-1",
-      "B": "CMV",
-      "C": "HHV-7",
-      "D": "VZV"
+      "A": "B virus is endemic in chimpanzees and causes only mild self-limiting illness in humans",
+      "B": "B virus is enzootic in macaque monkeys (genus Macaca); highly pathogenic in humans causing acute ascending myelitis and encephalomyelitis; acyclovir should be given immediately after exposure; no vaccine is available",
+      "C": "B virus is transmitted only via respiratory route in humans; acyclovir is ineffective",
+      "D": "B virus is a Gammaherpesvirinae and causes latent infection only in lymphoid tissues"
     },
     "correct": "B",
-    "rationale": "CMV causes severe systemic disease in immunocompromised patients."
+    "rationale": "HERPES B VIRUS (cercopithecine herpesvirus 1) is ENZOOTIC in RHESUS, CYNOMOLGUS, and other MACAQUE MONKEYS (genus Macaca). It is HIGHLY PATHOGENIC for humans, causing ACUTE ASCENDING MYELITIS and ENCEPHALOMYELITIS. Transmission usually occurs via MONKEY BITE, though respiratory or ocular splash exposure is possible. Many human survivors are left with NEUROLOGIC IMPAIRMENT. ACYCLOVIR must be given IMMEDIATELY AFTER EXPOSURE. NO VACCINE IS AVAILABLE. This distinguishes it from HSV which primarily affects the oropharynx or genitals."
+  },
+  {
+    "num": 124,
+    "difficulty": "\u2b25 Difficult",
+    "topic": "Topic 5: Herpesviridae",
+    "scenario": "A board exam question asks students to match each herpesvirus with its correct latency site.",
+    "question": "Which of the following CORRECTLY matches each herpesvirus with its site of latency?",
+    "options": {
+      "A": "HSV-1 \u2192 B lymphocytes; EBV \u2192 neurons; CMV \u2192 salivary glands; VZV \u2192 dorsal root ganglia",
+      "B": "HSV-1/2 \u2192 sensory ganglia (Gasseri); VZV \u2192 dorsal root ganglia; EBV \u2192 B lymphocytes; CMV \u2192 WBCs/endothelial cells; HHV-6/7 \u2192 T lymphocytes (CD4); HHV-8 \u2192 Kaposi tumor cells/endothelial cells",
+      "C": "HSV-1 \u2192 dorsal root ganglia; VZV \u2192 Gasseri ganglion; EBV \u2192 T lymphocytes; CMV \u2192 neurons",
+      "D": "All herpesviruses establish latency exclusively in neurons of the dorsal root ganglia"
+    },
+    "correct": "B",
+    "rationale": "The latency sites for human herpesviruses are distinct and high-yield: HSV-1/HSV-2 \u2192 SENSORY GANGLIA (HSV-1 uses Gasseri/trigeminal ganglion); VZV \u2192 DORSAL ROOT GANGLIA; EBV \u2192 B LYMPHOCYTES (using CR-2/CD21); CMV \u2192 WBCs, ENDOTHELIAL CELLS, and cells in various organs; HHV-6 \u2192 T LYMPHOCYTES (CD4) and salivary glands; HHV-7 \u2192 T LYMPHOCYTES (CD4) and salivary glands; HHV-8 \u2192 KAPOSI TUMOR CELLS, ENDOTHELIAL CELLS, and tumor-infiltrating leukocytes. Matching latency sites to viral subfamily: Alpha \u2192 neurons; Beta \u2192 secretory glands/WBCs; Gamma \u2192 lymphoid cells."
+  },
+  {
+    "num": 125,
+    "difficulty": "\u2b25 Difficult",
+    "topic": "Topic 5: Herpesviridae",
+    "scenario": "A virology professor presents a comprehensive comparison of herpesvirus treatments for a senior medical technology class.",
+    "question": "Which antiviral pairing is INCORRECTLY matched to its target herpesvirus?",
+    "options": {
+      "A": "HSV \u2192 acyclovir, valacyclovir, famciclovir",
+      "B": "CMV \u2192 ganciclovir (drug of choice), foscarnet, cidofovir",
+      "C": "VZV \u2192 acyclovir and famciclovir",
+      "D": "EBV \u2192 ganciclovir as the drug of choice for infectious mononucleosis"
+    },
+    "correct": "D",
+    "rationale": "EBV infectious mononucleosis treatment is SUPPORTIVE \u2014 there is NO specific antiviral drug of choice for IM. Ganciclovir is NOT used for EBV/IM. The correct pairings are: HSV \u2192 ACYCLOVIR, valacyclovir, famciclovir (rarely foscarnet/adefovir for resistant strains); VZV \u2192 ACYCLOVIR, famciclovir; CMV \u2192 GANCICLOVIR (drug of choice, IV 5mg/kg bd \u00d7 10\u201314 days), foscarnet, cidofovir; HHV-6/7 \u2192 ganciclovir and foscarnet; HHV-8 \u2192 foscarnet, ganciclovir, cidofovir; B Virus \u2192 acyclovir immediately after exposure."
   }
 ]
-]
-
