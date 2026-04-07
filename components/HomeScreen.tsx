@@ -8,6 +8,7 @@ const TOPICS = [
   'Topic 2: DNA Viruses Part 1',
   'Topic 3: DNA Viruses — Poxviridae',
   'Topic 4: Hepadnaviridae — Hepatitis B & D',
+  'Topic 5: Herpesviridae',
 ];
 
 const DIFFICULTIES = ['⬥ Easy', '⬥ Moderate', '⬥ Difficult'];
