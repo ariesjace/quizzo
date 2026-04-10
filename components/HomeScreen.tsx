@@ -4,11 +4,10 @@ import { useState } from 'react';
 import { Question } from '@/types';
 
 const TOPICS = [
-  'Topic 1: Introduction to Virology',
-  'Topic 2: DNA Viruses Part 1',
-  'Topic 3: DNA Viruses — Poxviridae',
-  'Topic 4: Hepadnaviridae — Hepatitis B & D',
-  'Topic 5: Herpesviridae',
+  'Topic 1: Hemoglobin Metabolism',
+  'Topic 2: RBC Abnormalities',
+  'Topic 3: Introduction and Classification of Anemia; Microcytic Anemias',
+  'Topic 4: Macrocytic and Normocytic Anemias',
 ];
 
 const DIFFICULTIES = ['⬥ Easy', '⬥ Moderate', '⬥ Difficult'];
