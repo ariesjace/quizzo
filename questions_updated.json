@@ -1,0 +1,752 @@
+[
+  {
+    "num": 51,
+    "difficulty": "⬥ Easy",
+    "topic": "Topic 2: Thyroid Gland – Anatomy & Biosynthesis",
+    "scenario": "A medical technology student is reviewing the biosynthesis pathway of thyroid hormones for an upcoming board examination.",
+    "question": "Which sequence CORRECTLY describes the biosynthesis pathway of thyroid hormones from the brain to the thyroid gland?",
+    "options": {
+      "A": "Pituitary (TSH) → Hypothalamus (TRH) → Thyroid Gland → T1 and T2",
+      "B": "Hypothalamus (TRH) → Anterior Pituitary Gland (TSH) → Thyroid Gland → T3 and T4 (Tyrosyl + Iodine)",
+      "C": "Hypothalamus (CRH) → Pituitary (ACTH) → Thyroid Gland → T3 and T4",
+      "D": "Anterior Pituitary (TRH) → Hypothalamus (TSH) → Thyroid Gland → Calcitonin"
+    },
+    "correct": "B",
+    "rationale": "The correct biosynthesis pathway is: HYPOTHALAMUS releases TRH (Thyrotropin-Releasing Hormone) → stimulates the ANTERIOR PITUITARY GLAND to release TSH (Thyroid-Stimulating Hormone) → TSH stimulates the THYROID GLAND to produce T3 (Triiodothyronine) and T4 (Tetraiodothyronine/Thyroxine). The building blocks of thyroid hormones are TYROSYL residues of thyroglobulin combined with IODIDE, catalyzed by THYROID PEROXIDASE. This axis is regulated by negative feedback from circulating T3 and T4."
+  },
+  {
+    "num": 52,
+    "difficulty": "⬥ Easy",
+    "topic": "Topic 2: Thyroid Gland – Anatomy & Biosynthesis",
+    "scenario": "A clinical chemistry professor is lecturing about the cellular composition of the thyroid gland and which cells produce which hormones.",
+    "question": "Which pairing CORRECTLY matches the thyroid gland cell type with its secreted hormone?",
+    "options": {
+      "A": "Follicular Cells – Calcitonin; Parafollicular (C) Cells – T3 and T4",
+      "B": "Chief Cells – T3 and T4; Chromaffin Cells – Calcitonin",
+      "C": "Follicular Cells – T3 and T4 (via Tyrosyl residue of Thyroglobulin + Iodide); Parafollicular (C) Cells – Calcitonin",
+      "D": "Parafollicular Cells – T3 and T4; Follicular Cells – Parathyroid Hormone (PTH)"
+    },
+    "correct": "C",
+    "rationale": "The thyroid gland contains two main cell types: (1) FOLLICULAR CELLS – responsible for the production of T3 and T4. The mechanism involves combining the TYROSYL RESIDUE OF THYROGLOBULIN + IODIDE via the enzyme THYROID PEROXIDASE to form MIT (Monoiodothyronine) and DIT (Di-iodothyronine). T3 = MIT + DIT; T4 = DIT + DIT. (2) PARAFOLLICULAR CELLS (also called C CELLS) – secrete CALCITONIN, a hypocalcemic hormone that lowers blood calcium levels. Note: Chief cells are found in the parathyroid gland, not the thyroid."
+  },
+  {
+    "num": 53,
+    "difficulty": "⬥ Easy",
+    "topic": "Topic 2: Thyroid Gland – Anatomy & Biosynthesis",
+    "scenario": "A student is asked by her instructor to explain the iodine coupling reactions that yield T3 and T4 during a laboratory review session.",
+    "question": "Which combination of iodinated tyrosine residues CORRECTLY produces T3 and T4, respectively?",
+    "options": {
+      "A": "T3 = DIT + DIT; T4 = MIT + DIT",
+      "B": "T3 = MIT + MIT; T4 = DIT + MIT",
+      "C": "T3 = MIT + DIT; T4 = DIT + DIT",
+      "D": "T3 = DIT + DIT + MIT; T4 = MIT + MIT + DIT"
+    },
+    "correct": "C",
+    "rationale": "The coupling reaction of iodinated tyrosine residues produces thyroid hormones as follows: T3 (Triiodothyronine – 3 iodine atoms) = MIT (MonoIodoThyronine – 1 iodine) + DIT (DiIodoThyronine – 2 iodines). T4 (Tetraiodothyronine/Thyroxine – 4 iodine atoms) = DIT (2 iodines) + DIT (2 iodines). This reaction is catalyzed by THYROID PEROXIDASE using the TYROSYL RESIDUE OF THYROGLOBULIN combined with IODIDE. The main stimulus for iodide uptake is TSH from the pituitary gland."
+  },
+  {
+    "num": 54,
+    "difficulty": "⬥ Moderate",
+    "topic": "Topic 2: Thyroid Gland – Anatomy & Biosynthesis",
+    "scenario": "A 30-year-old female is diagnosed with primary hypothyroidism. Her physician explains that TSH is the main stimulus for iodide uptake by the thyroid. During a study group, a classmate questions what other effects TSH has on the thyroid gland.",
+    "question": "Besides stimulating iodide uptake, which other effects does TSH have on the thyroid gland?",
+    "options": {
+      "A": "TSH decreases the size of follicular cells and inhibits T3/T4 synthesis",
+      "B": "TSH stimulates synthesis of T3/T4, increases size and number of follicular cells, and its release is suppressed by cortisol",
+      "C": "TSH only affects iodide uptake; all other thyroid functions are self-regulated",
+      "D": "TSH increases calcitonin secretion from parafollicular cells and decreases follicular cell number"
+    },
+    "correct": "B",
+    "rationale": "TSH (Thyroid-Stimulating Hormone) has multiple effects on the thyroid gland: (1) STIMULATES synthesis of T3 and T4; (2) Is the MAIN STIMULUS for IODIDE UPTAKE; (3) INCREASES SIZE AND NUMBER OF FOLLICULAR CELLS (causing goiter when TSH is chronically elevated); (4) CORTISOL suppresses the release of TRH (and also TSH). The feedback hormones that regulate TSH are T3 and T4 via three feedback loops: SHORT FEEDBACK LOOP (at the pituitary level), LONG FEEDBACK LOOP (at the hypothalamus level), and ULTRASHORT FEEDBACK LOOP (involving both pituitary and hypothalamus)."
+  },
+  {
+    "num": 55,
+    "difficulty": "⬥ Moderate",
+    "topic": "Topic 2: Thyroid Gland – Anatomy & Biosynthesis",
+    "scenario": "A patient under prolonged corticosteroid therapy is noted to have abnormally low TSH levels. The attending physician attributes this to a well-known hormonal interaction.",
+    "question": "Which hormone suppresses the release of TRH and TSH, and what is the clinical implication for patients on long-term steroid therapy?",
+    "options": {
+      "A": "Aldosterone suppresses TSH; patients on steroids develop hyperaldosteronism",
+      "B": "Cortisol suppresses TRH (and thereby TSH) release; prolonged steroid use may result in secondary suppression of the thyroid axis",
+      "C": "Epinephrine suppresses TSH; patients develop sympathetic overactivation affecting thyroid function",
+      "D": "Insulin suppresses TRH; diabetic patients therefore always have low thyroid hormones"
+    },
+    "correct": "B",
+    "rationale": "CORTISOL suppresses the release of TRH from the hypothalamus, which subsequently reduces TSH secretion from the anterior pituitary. This is why patients on long-term glucocorticoid (steroid) therapy may develop secondary suppression of the hypothalamic-pituitary-thyroid axis, resulting in low TSH and consequently reduced T3 and T4 production. This is an important clinical consideration in patients receiving prolonged corticosteroid therapy, as thyroid function must be monitored. The feedback hormones that normally regulate this axis are T3 and T4."
+  },
+  {
+    "num": 56,
+    "difficulty": "⬥ Easy",
+    "topic": "Topic 2: Thyroid Gland – Anatomy & Biosynthesis",
+    "scenario": "A clinical chemistry instructor is explaining thyroid hormone transport to first-year MedTech students, emphasizing the difference between active and inactive forms.",
+    "question": "Which statement CORRECTLY describes the relationship between protein-bound thyroid hormones and their biological activity?",
+    "options": {
+      "A": "Protein-bound thyroid hormones are the ACTIVE form; free hormones are inactive",
+      "B": "Protein-bound hormones are INACTIVE; only FREE T3 and FREE T4 are the active forms that exert biological effects",
+      "C": "All forms of thyroid hormone (bound and free) are equally active",
+      "D": "T4 bound to TBG is the most potent active metabolic agent"
+    },
+    "correct": "B",
+    "rationale": "PROTEIN-BOUND thyroid hormones (T3 and T4 bound to TBG, TBPA, or Albumin) are INACTIVE. The biological effects of thyroid hormones are exerted only by the FREE forms: FREE T3 and FREE T4 are the ACTIVE FORMS. Binding proteins significantly affect circulating T3 and T4 levels. The principal carrier protein is Thyroxine-Binding Globulin (TBG), which transports 70–75% of total T4 and the majority of T3 (with lower affinity for T3). Thyroxine-Binding Prealbumin (TBPA) transports 15–20% of T4 but has NO affinity for T3. Albumin also transports a small fraction."
+  },
+  {
+    "num": 57,
+    "difficulty": "⬥ Easy",
+    "topic": "Topic 2: Thyroid Gland – Anatomy & Biosynthesis",
+    "scenario": "A board exam reviewer asks a student to identify the principal carrier protein for thyroid hormones and describe its transport capacity.",
+    "question": "Which statement BEST describes the Thyroxine-Binding Globulin (TBG) and its transport role?",
+    "options": {
+      "A": "TBG transports 15–20% of total T4 and has NO affinity for T3; it is the secondary carrier protein",
+      "B": "TBG is the PRINCIPAL carrier protein; it transports 70–75% of total T4 and transports the MAJORITY of T3 but with lower affinity for T3 compared to T4",
+      "C": "TBG transports 100% of T3 and T4 and is produced in the thyroid gland itself",
+      "D": "TBG binds only to T3 and has high affinity for T4; it transports 50% of each hormone"
+    },
+    "correct": "B",
+    "rationale": "THYROXINE-BINDING GLOBULIN (TBG) is the PRINCIPAL CARRIER PROTEIN for thyroid hormones. It transports 70–75% of TOTAL T4 and the MAJORITY of T3, but has LOWER AFFINITY FOR T3 compared to T4. THYROXINE-BINDING PREALBUMIN (TBPA) transports 15–20% of total T4 and has NO AFFINITY FOR T3. ALBUMIN also carries a smaller fraction of thyroid hormones. Because binding proteins significantly affect circulating T3 and T4, hyper- and hypothyroidism must be diagnosed based on FREE (active) forms rather than total hormone levels, since individuals may synthesize excessive TBG without any thyroid malfunction."
+  },
+  {
+    "num": 58,
+    "difficulty": "⬥ Easy",
+    "topic": "Topic 2: Thyroid Gland – Anatomy & Biosynthesis",
+    "scenario": "A pathology instructor asks students to compare T3 and T4 in terms of potency and function during a review on thyroid physiology.",
+    "question": "Which statement CORRECTLY compares T3 and T4 in terms of their metabolic potency and function?",
+    "options": {
+      "A": "T4 is the MOST POTENT metabolic agent; T3 is a pre-hormone and indicator of thyroid secretory rate",
+      "B": "T3 (Triiodothyronine) is the MOST POTENT metabolic agent; T4 (Tetraiodothyronine/Thyroxine) is a PRE-HORMONE and is the INDICATOR OF THYROID SECRETORY RATE",
+      "C": "T3 and T4 have equal potency; T4 is the active form and T3 is inactive",
+      "D": "Reverse T3 (rT3) is the most potent metabolic agent; T3 and T4 are both pre-hormones"
+    },
+    "correct": "B",
+    "rationale": "T3 (TRIIODOTHYRONINE) is the MOST POTENT METABOLIC AGENT among the thyroid hormones. T4 (TETRAIODOTHYRONINE/THYROXINE) is considered a PRE-HORMONE and is the INDICATOR OF THYROID SECRETORY RATE. Approximately 80% of T4 is metabolized into either: T3 (35%) – the active potent form, or REVERSE T3 (rT3) (45%) – which is BIOLOGICALLY INACTIVE and acts as a REGULATOR (inhibitor of T3). Reverse T3 is formed when one iodine is removed from a specific position of T4, and is used to identify patients with Euthyroid Sick Syndrome."
+  },
+  {
+    "num": 59,
+    "difficulty": "⬥ Moderate",
+    "topic": "Topic 2: Thyroid Gland – Anatomy & Biosynthesis",
+    "scenario": "A pregnant woman at 16 weeks gestation has a laboratory result showing elevated TOTAL T4. Her physician reassures her that this does not indicate hyperthyroidism. A medical student shadowing the physician asks for an explanation.",
+    "question": "Why would a pregnant woman have an elevated TOTAL T4 but still be considered euthyroid (normal thyroid function)?",
+    "options": {
+      "A": "Pregnancy causes the thyroid gland to produce more T4 autonomously, causing true hyperthyroidism",
+      "B": "Pregnancy increases estrogen levels, which increases TBG; more TBG binds T4 raising TOTAL T4, but FREE T4 remains normal – the patient is euthyroid with excessive TBG",
+      "C": "Pregnancy suppresses TBG, releasing free T4 into the bloodstream, causing elevated total T4",
+      "D": "The placenta produces additional T4, which is added to maternal T4, causing elevated total T4 levels"
+    },
+    "correct": "B",
+    "rationale": "Pregnancy causes elevated ESTROGEN levels, which INCREASE TBG production. More TBG means more BOUND (inactive) T4, raising the TOTAL T4 level. However, FREE T4 (the active form) remains normal because the thyroid gland compensates appropriately. This is a state of EUTHYROIDISM WITH EXCESSIVE TBG. This is why hyper- and hypothyroidism should be diagnosed based on FREE T3/T4 levels and not total hormone levels. The Free Thyroxine Index (FT4I = Total T4 × THBR) is useful for correcting for patients with abnormal TBG levels, and would show a NORMAL result in this case."
+  },
+  {
+    "num": 60,
+    "difficulty": "⬥ Moderate",
+    "topic": "Topic 2: Thyroid Gland – Anatomy & Biosynthesis",
+    "scenario": "A nephrotic syndrome patient is found to have low TOTAL T4 and low TBG despite having no clinical signs of hypothyroidism. A clinical chemistry resident is asked to explain this finding.",
+    "question": "Which mechanism BEST explains the low TOTAL T4 and low TBG in nephrotic syndrome without clinical hypothyroidism?",
+    "options": {
+      "A": "Nephrotic syndrome destroys the thyroid gland, reducing T4 production",
+      "B": "Nephrotic syndrome causes urinary loss of TBG protein, reducing bound T4 and thus total T4; FREE T4 remains normal, so the patient is clinically euthyroid",
+      "C": "Nephrotic syndrome increases TSH, which suppresses TBG and total T4",
+      "D": "Nephrotic syndrome reduces iodide uptake, preventing T4 synthesis and reducing TBG simultaneously"
+    },
+    "correct": "B",
+    "rationale": "In NEPHROTIC SYNDROME, protein is lost in the urine (proteinuria), including TBG. With DECREASED TBG, less T4 is bound, resulting in lower TOTAL T4 levels. However, the FREE T4 (active form) remains within normal range because the thyroid gland continues to produce adequate hormone. This is another example of why TOTAL T4 should not be used alone to diagnose thyroid disorders. Other conditions that DECREASE TBG include: hyperthyroidism, anabolic steroids, nephrosis, and hypoproteinemia. Conditions that INCREASE TBG include: hypothyroidism, pregnancy, and estrogen use."
+  },
+  {
+    "num": 61,
+    "difficulty": "⬥ Hard",
+    "topic": "Topic 2: Thyroid Gland – Anatomy & Biosynthesis",
+    "scenario": "A critically ill ICU patient is noted to have LOW TSH, LOW T3, LOW FREE T4, but HIGH Reverse T3 (rT3). The attending physician diagnoses the patient with Euthyroid Sick Syndrome rather than hypothyroidism.",
+    "question": "Which laboratory pattern and pathophysiological mechanism BEST distinguishes Euthyroid Sick Syndrome from true hypothyroidism?",
+    "options": {
+      "A": "Euthyroid Sick Syndrome: HIGH TSH, LOW T3/T4, LOW rT3 – caused by thyroid gland failure",
+      "B": "Euthyroid Sick Syndrome: LOW TSH, LOW T3, LOW Free T4, but HIGH rT3 – caused by peripheral conversion of T4 to rT3 instead of active T3 in the setting of systemic illness, despite a normally functioning thyroid gland",
+      "C": "Euthyroid Sick Syndrome: NORMAL TSH, NORMAL T3/T4, NORMAL rT3 – only identifiable by thyroid biopsy",
+      "D": "Euthyroid Sick Syndrome: HIGH TSH, NORMAL T3, HIGH rT3 – caused by TBG overproduction in the liver"
+    },
+    "correct": "B",
+    "rationale": "EUTHYROID SICK SYNDROME (also called Non-Thyroidal Illness Syndrome) refers to a NORMAL functioning thyroid gland in the presence of abnormal thyroid function tests, typically seen in critically ill patients. Lab pattern: LOW or NORMAL TSH, LOW T3, LOW FREE T4, and HIGH REVERSE T3 (rT3). The mechanism: in systemic illness, peripheral conversion of T4 is redirected toward producing REVERSE T3 (INACTIVE/BIOLOGICALLY INACTIVE) instead of active T3. The KEY distinguishing marker is the ELEVATED rT3, which separates this condition from true hypothyroidism (which shows HIGH TSH, LOW T3/T4, LOW or NORMAL rT3). This is why Reverse T3 testing is used to assess borderline or conflicting lab results."
+  },
+  {
+    "num": 62,
+    "difficulty": "⬥ Easy",
+    "topic": "Topic 2: Thyroid Gland – Anatomy & Biosynthesis",
+    "scenario": "A clinical instructor presents a case where a patient's Total T4 is elevated. A student argues the patient must have hyperthyroidism. Another student disagrees.",
+    "question": "Why is an elevated TOTAL T4 alone NOT sufficient to diagnose hyperthyroidism?",
+    "options": {
+      "A": "Total T4 elevation always confirms hyperthyroidism regardless of binding proteins",
+      "B": "Total T4 includes both protein-bound (INACTIVE) and free (ACTIVE) T4; a high total T4 may simply reflect excess TBG with a normal free T4, meaning the patient could be euthyroid – hyperthyroidism must be confirmed by elevated FREE T4",
+      "C": "Total T4 is not measured in clinical laboratories; only TSH is used",
+      "D": "Elevated Total T4 only indicates hypothyroidism because TSH would compensatorily rise"
+    },
+    "correct": "B",
+    "rationale": "TOTAL T4 = Protein-Bound T4 (INACTIVE) + Free T4 (ACTIVE). An elevated Total T4 may simply indicate increased TBG (from pregnancy, estrogen use, or other causes), which binds more T4 and raises the total level WITHOUT increasing free (active) T4. True HYPERTHYROIDISM must be confirmed by elevated FREE T4 (or Free T3), since these are the biologically active forms. This is why hyper- and hypothyroidism SHOULD BE DIAGNOSED BASED ON THE NUMBER OF ACTIVE FORMS. Additionally, the TSH test is the BEST SCREENING TEST, and TSH would be LOW in hyperthyroidism regardless of the total T4 level."
+  },
+  {
+    "num": 63,
+    "difficulty": "⬥ Easy",
+    "topic": "Topic 2: Thyroid Gland – Anatomy & Biosynthesis",
+    "scenario": "A physiology student is asked to enumerate the functions of thyroid hormones in preparation for a comprehensive examination.",
+    "question": "Which list BEST describes the known physiological functions of thyroid hormones (T3 and T4)?",
+    "options": {
+      "A": "Thyroid hormones only regulate calcium and phosphate metabolism; they have no effect on growth or metabolism",
+      "B": "Thyroid hormones produce proteins influencing metabolism and development, promote tissue growth, CNS/brain maturation, elevate heat production and O2 consumption, influence carbohydrate and protein metabolism (hyperglycemic), increase expression of beta-adrenergic receptors, and promote sexual maturity",
+      "C": "Thyroid hormones exclusively regulate electrolyte balance and blood pressure",
+      "D": "Thyroid hormones only suppress the immune system and reduce inflammation"
+    },
+    "correct": "B",
+    "rationale": "Thyroid hormones (T3 and T4) have multiple physiological roles: (1) Production of proteins that INFLUENCE METABOLISM AND DEVELOPMENT; (2) TISSUE GROWTH; (3) CNS and BRAIN MATURATION (critical in fetal development); (4) ELEVATE HEAT PRODUCTION; (5) INCREASE O2 CONSUMPTION; (6) Influence carbohydrate (CHON) and PROTEIN metabolism – they are HYPERGLYCEMIC; (7) ENERGY CONSERVATION; (8) INCREASED EXPRESSION of BETA-ADRENERGIC RECEPTORS (explains sympathomimetic symptoms in hyperthyroidism like palpitations); (9) SEXUAL MATURITY. These wide-ranging functions explain why both excess and deficiency of thyroid hormones produce systemic effects."
+  },
+  {
+    "num": 64,
+    "difficulty": "⬥ Moderate",
+    "topic": "Topic 2: Thyroid Gland – Anatomy & Biosynthesis",
+    "scenario": "A 28-year-old male with untreated hyperthyroidism is admitted with complaints of palpitations, heat intolerance, tremors, and weight loss despite eating normally. A student asks why palpitations are so prominent in thyroid excess.",
+    "question": "Which mechanism BEST explains why palpitations and tachycardia are prominent features of hyperthyroidism?",
+    "options": {
+      "A": "Excess T3/T4 directly stimulates the SA node through TSH receptors in the heart",
+      "B": "Excess thyroid hormone INCREASES EXPRESSION OF BETA-ADRENERGIC RECEPTORS in the heart, making it more sensitive to catecholamines (epinephrine/norepinephrine), resulting in increased heart rate and palpitations",
+      "C": "Excess T4 accumulates in the cardiac muscle and directly blocks potassium channels",
+      "D": "Hyperthyroidism increases aldosterone, causing fluid retention and increased cardiac preload leading to palpitations"
+    },
+    "correct": "B",
+    "rationale": "One of the key functions of thyroid hormones is to INCREASE THE EXPRESSION OF BETA-ADRENERGIC RECEPTORS in various tissues including the heart. In hyperthyroidism, excess T3/T4 upregulates these beta receptors, making the cardiovascular system HYPERSENSITIVE TO CATECHOLAMINES (epinephrine and norepinephrine). This results in increased heart rate (tachycardia), palpitations, and increased cardiac output. This is why beta-blockers (which block beta-adrenergic receptors) are used as symptomatic treatment in hyperthyroidism to control tachycardia and palpitations while the primary cause is being treated."
+  },
+  {
+    "num": 65,
+    "difficulty": "⬥ Moderate",
+    "topic": "Topic 2: Thyroid Gland – Anatomy & Biosynthesis",
+    "scenario": "A newborn is identified through neonatal screening as having congenital hypothyroidism. The pediatrician urgently initiates thyroid hormone replacement therapy even before the infant shows obvious symptoms.",
+    "question": "Why is URGENT thyroid hormone replacement critical in congenital hypothyroidism?",
+    "options": {
+      "A": "Thyroid hormones are only needed for calcium regulation; delayed treatment causes hypocalcemia",
+      "B": "Thyroid hormones are critical for CNS and BRAIN MATURATION; deficiency during early life causes irreversible physical and mental retardation (Cretinism) if not treated promptly",
+      "C": "Thyroid hormones regulate erythropoiesis; delay causes severe anemia in newborns",
+      "D": "Thyroid hormone replacement is needed to prevent neonatal diabetes, as T4 is the primary hyperglycemic hormone in infants"
+    },
+    "correct": "B",
+    "rationale": "One of the most critical functions of thyroid hormones is CNS and BRAIN MATURATION. In CONGENITAL HYPOTHYROIDISM (Cretinism), defects in the development of the thyroid gland lead to thyroid hormone deficiency during the critical period of brain development. Without prompt treatment, this results in PHYSICAL AND MENTAL RETARDATION that is largely IRREVERSIBLE. During fetal development, small amounts of MATERNAL THYROID HORMONE cross the placenta to protect the fetus, but this is insufficient long-term. The SCREENING TEST for congenital hypothyroidism is DECREASED T4, with CONFIRMATORY TEST being INCREASED TSH. Immediate hormone replacement prevents permanent neurological damage."
+  },
+  {
+    "num": 66,
+    "difficulty": "⬥ Easy",
+    "topic": "Topic 2: Thyroid Gland – Anatomy & Biosynthesis",
+    "scenario": "A student is studying the different types of thyroid autoantibodies for a clinical immunology examination.",
+    "question": "Which thyroid autoantibody is correctly paired with its mechanism or disease association?",
+    "options": {
+      "A": "TPOAbs – bind to TSH receptor and cause Grave's Disease; TgAbs – cause tissue destruction",
+      "B": "TRAbs (Thyroid-Stimulating Immunoglobulins) – bind to TSH RECEPTOR and activate it, associated with Grave's Disease; TPOAbs – detected in BOTH Hashimoto's and Grave's Disease; TMAbs – cause tissue destruction; TgAbs – do NOT cause gland damage",
+      "C": "TMAbs – bind to TSH receptor causing hyperthyroidism; TgAbs – cause thyroid cell destruction in Hashimoto's disease",
+      "D": "All four thyroid antibodies cause the same effect: tissue destruction of the thyroid gland"
+    },
+    "correct": "B",
+    "rationale": "There are four key thyroid autoantibodies: (1) THYROID STIMULATING IMMUNOGLOBULINS / THYROTROPIN RECEPTOR ANTIBODIES (TRAbs) – bind to TSH receptors and IMITATE TSH, causing HYPERTHYROIDISM; hallmark of GRAVE'S DISEASE; detected by TSH RECEPTOR (TSHR) ANTIBODY TEST. (2) THYROID MICROSOMAL ANTIBODIES (TMAbs) – attack microsomes, causing TISSUE DESTRUCTION. (3) ANTITHYROID PEROXIDASE ANTIBODIES (TPOAbs) – detected in HASHIMOTO'S and GRAVE'S DISEASE. (4) ANTITHYROGLOBULIN ANTIBODIES (TgAbs) – bind to thyroglobulin; DO NOT CAUSE DAMAGE to the gland but are indicators of autoimmune disease/disorder. TPOAbs, TMAbs, and TgAbs are the HALLMARK OF HASHIMOTO'S DISEASE."
+  },
+  {
+    "num": 67,
+    "difficulty": "⬥ Moderate",
+    "topic": "Topic 2: Thyroid Gland – Anatomy & Biosynthesis",
+    "scenario": "A 32-year-old female is being evaluated for hyperthyroidism. Her physician orders a TSH Receptor Antibody Test. The result comes back positive for TRAbs.",
+    "question": "Which mechanism explains how TRAbs cause hyperthyroidism, and what condition is this associated with?",
+    "options": {
+      "A": "TRAbs block TSH receptors, preventing T3/T4 production and causing hypothyroidism – associated with Hashimoto's Disease",
+      "B": "TRAbs bind to and ACTIVATE TSH receptors (mimicking TSH), causing AUTONOMOUS overproduction of T3 and T4 – associated with GRAVE'S DISEASE (Diffuse Toxic Goiter), which is the MOST COMMON CAUSE of hyperthyroidism",
+      "C": "TRAbs bind to thyroglobulin, preventing iodine incorporation and causing goiter without hormone excess",
+      "D": "TRAbs destroy parafollicular cells, elevating calcitonin and causing hypercalcemia"
+    },
+    "correct": "B",
+    "rationale": "THYROTROPIN RECEPTOR ANTIBODIES (TRAbs), also called Thyroid-Stimulating Immunoglobulins (TSIs), are AUTOANTIBODIES that BIND TO AND ACTIVATE TSH RECEPTORS on thyroid follicular cells. They IMITATE TSH, stimulating UNCONTROLLED, AUTONOMOUS production of T3 and T4, independent of the normal feedback loop. This results in HYPERTHYROIDISM. This is the mechanism of GRAVE'S DISEASE (Diffuse Toxic Goiter), which is the MOST COMMON CAUSE of hyperthyroidism. Features of Grave's Disease include: EXOPHTHALMOS (bulging/protruding eyes), PROPTOSIS, double vision, corneal disease, PRETIBIAL MYXEDEMA DERMOPATHY, and DIFFUSE TOXIC GOITER. Diagnosis is made via TSH RECEPTOR (TSHR) ANTIBODY TEST to detect TRAbs."
+  },
+  {
+    "num": 68,
+    "difficulty": "⬥ Hard",
+    "topic": "Topic 2: Thyroid Gland – Anatomy & Biosynthesis",
+    "scenario": "A 45-year-old woman presents with fatigue, weight gain, and elevated TSH. The laboratory reports positive TPOAbs, TMAbs, and TgAbs. Her physician diagnoses her with Hashimoto's Disease.",
+    "question": "Which combination of autoantibodies serves as the HALLMARK of Hashimoto's Disease, and what is the underlying pathological mechanism?",
+    "options": {
+      "A": "Only TRAbs are elevated in Hashimoto's; the mechanism is TSH receptor stimulation causing hypothyroidism",
+      "B": "TPOAbs, TMAbs, and TgAbs are the HALLMARK of Hashimoto's Disease; the mechanism involves the THYROID BEING REPLACED BY LYMPHOID TISSUE, with sensitized T cells AND autoantibodies (B cell-derived) binding to cell membrane causing CELL LYSIS AND INFLAMMATION, resulting in primary hypothyroidism",
+      "C": "Only TgAbs are the hallmark of Hashimoto's; they destroy the gland by attacking thyroglobulin directly",
+      "D": "Hashimoto's Disease is characterized by TRAbs and TMAbs; the mechanism is microsomal destruction leading to hyperthyroidism before hypothyroidism"
+    },
+    "correct": "B",
+    "rationale": "HASHIMOTO'S DISEASE (Chronic Autoimmune Thyroiditis / Chronic Lymphocytic Thyroiditis) is the MOST COMMON CAUSE of primary hypothyroidism in the developed world. The HALLMARK is the presence of TPOABS (Anti-Thyroid Peroxidase Antibodies), TMABS (Thyroid Microsomal Antibodies), and TGABS (Antithyroglobulin Antibodies). Pathological mechanism: the THYROID IS REPLACED BY LYMPHOID TISSUE; sensitized T CELLS and autoantibodies (from B CELLS) bind to the cell membrane, causing CELL LYSIS AND INFLAMMATION, ultimately leading to thyroid destruction. Laboratory: POSITIVE TPO ANTIBODY, and TSH = INCREASED (primary hypothyroidism). Excessive IODINE intake may also inhibit hormone production via the WOLFF-CHAIKOFF EFFECT."
+  },
+  {
+    "num": 69,
+    "difficulty": "⬥ Easy",
+    "topic": "Topic 2: Thyroid Gland – Anatomy & Biosynthesis",
+    "scenario": "A 25-year-old female presents with tremors, weight loss despite increased appetite, heat intolerance, palpitations, and increased sweating. Laboratory results show elevated T3 and T4 with suppressed TSH.",
+    "question": "Which condition is MOST CONSISTENT with this clinical presentation and laboratory findings?",
+    "options": {
+      "A": "Hypothyroidism – the TSH would be elevated and T3/T4 would be decreased",
+      "B": "Hyperthyroidism/Thyrotoxicosis – characterized by EXCESS CIRCULATING THYROID HORMONE causing tremors, weight loss despite normal/increased appetite, heat intolerance, emotional lability, weakness, palpitations, increased perspiration, anxiety, and menstrual changes",
+      "C": "Euthyroid Sick Syndrome – low TSH with low free T4 and high rT3",
+      "D": "Subclinical Hypothyroidism – normal T3/T4 with slightly elevated TSH"
+    },
+    "correct": "B",
+    "rationale": "This clinical picture is consistent with HYPERTHYROIDISM / THYROTOXICOSIS, defined as EXCESS CIRCULATING THYROID HORMONE (elevated T3 and T4) with SUPPRESSED TSH (due to negative feedback). Signs and symptoms include: TREMORS, WEIGHT LOSS DESPITE NORMAL OR INCREASED APPETITE (increased metabolism), HEAT INTOLERANCE, EMOTIONAL LABILITY, WEAKNESS, PALPITATIONS (from increased beta-adrenergic receptor expression), INCREASED PERSPIRATION, ANXIETY, and MENSTRUAL CHANGES. The most severe complication of uncontrolled thyrotoxicosis is THYROID STORM – a life-threatening, uncontrolled thyrotoxicosis requiring emergency management."
+  },
+  {
+    "num": 70,
+    "difficulty": "⬥ Moderate",
+    "topic": "Topic 2: Thyroid Gland – Anatomy & Biosynthesis",
+    "scenario": "A 38-year-old male presents with hyperthyroidism, bilateral exophthalmos, pretibial myxedema, and a diffuse goiter. His TSH Receptor Antibody test is positive.",
+    "question": "Which diagnosis is MOST LIKELY, and what are the key distinguishing clinical and laboratory features?",
+    "options": {
+      "A": "Hashimoto's Disease – characterized by hypothyroidism, goiter, and elevated TPO antibodies",
+      "B": "Grave's Disease (Diffuse Toxic Goiter) – MOST COMMON cause of hyperthyroidism; autoimmune disease where TRAbs ACTIVATE TSH receptors; key features: EXOPHTHALMOS (bulging eyes/proptosis), PRETIBIAL MYXEDEMA DERMOPATHY, DIFFUSE TOXIC GOITER; diagnosed by TSH RECEPTOR (TSHR) ANTIBODY TEST detecting TRAbs",
+      "C": "Subacute Thyroiditis – inflammation causing hormonal leakage; does not cause exophthalmos",
+      "D": "TSH-Secreting Tumor – elevated TSH with elevated T3/T4; no ophthalmologic changes"
+    },
+    "correct": "B",
+    "rationale": "GRAVE'S DISEASE (Diffuse Toxic Goiter) is the MOST COMMON CAUSE of hyperthyroidism. It is an AUTOIMMUNE DISEASE where ANTIBODIES (TRAbs) are produced that ACTIVATE TSH RECEPTORS, mimicking TSH and causing autonomous overproduction of T3 and T4. DISTINGUISHING FEATURES: (1) EXOPHTHALMOS – forward protrusion/bulging of the eyeballs (proptosis); (2) DOUBLE VISION and CORNEAL DISEASE; (3) PRETIBIAL MYXEDEMA DERMOPATHY – skin thickening over the shin; (4) DIFFUSE TOXIC GOITER – bilateral thyroid enlargement. DIAGNOSIS: TSH RECEPTOR (TSHR) ANTIBODY TEST to detect TRAbs. Lab: HIGH T3/T4, LOW TSH, HIGH T3 uptake (THBR), LOW TBG (saturation)."
+  },
+  {
+    "num": 71,
+    "difficulty": "⬥ Moderate",
+    "topic": "Topic 2: Thyroid Gland – Anatomy & Biosynthesis",
+    "scenario": "A postpartum woman 3 months after delivery develops transient hyperthyroidism followed by hypothyroidism. Her physician suspects thyroiditis. No neck pain is present.",
+    "question": "Which type of thyroiditis BEST explains this postpartum clinical scenario, and how does it cause transient hyperthyroidism?",
+    "options": {
+      "A": "Riedel's Thyroiditis – the thyroid becomes a woody, stony hard mass causing hormone leakage",
+      "B": "Post-Partum Thyroiditis (a form of Subacute Thyroiditis) – inflammation of thyroid nodules leading to HORMONAL LEAKAGE causing transient hyperthyroidism, followed by a hypothyroid phase as hormone stores are depleted",
+      "C": "Grave's Disease – postpartum women develop TRAbs causing permanent hyperthyroidism",
+      "D": "Hashimoto's Disease – postpartum presentation with painful neck swelling and permanent hypothyroidism"
+    },
+    "correct": "B",
+    "rationale": "POST-PARTUM THYROIDITIS is a form of SUBACUTE THYROIDITIS – inflammation of the thyroid nodules/tissue leading to HORMONAL LEAKAGE (release of preformed thyroid hormones) into the circulation, causing TRANSIENT HYPERTHYROIDISM. As the hormone stores are depleted, a period of HYPOTHYROIDISM may follow before the gland recovers. The key feature of Subacute Thyroiditis is the mechanism of HORMONAL LEAKAGE rather than increased synthesis. Other types of subacute thyroiditis include PAINFUL THYROIDITIS (Subacute Granulomatous). Another form, RIEDEL'S THYROIDITIS, is characterized by the thyroid turning into a WOODY OR STONY HARD MASS (fibrous infiltration). TSH-secreting tumor causes hyperthyroidism via HIGH TSH → HIGH T3 and T4."
+  },
+  {
+    "num": 72,
+    "difficulty": "⬥ Hard",
+    "topic": "Topic 2: Thyroid Gland – Anatomy & Biosynthesis",
+    "scenario": "A 60-year-old male with a known pituitary tumor is found to have ELEVATED TSH, ELEVATED T3 and T4, and clinical features of hyperthyroidism. A student is confused because TSH should be low in typical hyperthyroidism.",
+    "question": "Which form of hyperthyroidism is characterized by HIGH TSH with HIGH T3/T4, and what is the mechanism?",
+    "options": {
+      "A": "Primary Hyperthyroidism – TSH is always low; this patient must have hypothyroidism",
+      "B": "Secondary Hyperthyroidism from a TSH-SECRETING PITUITARY TUMOR – the tumor autonomously produces excess TSH, which drives the thyroid to produce excess T3 and T4; both TSH and T3/T4 are ELEVATED simultaneously",
+      "C": "Tertiary Hyperthyroidism from hypothalamic disease causing LOW TRH and LOW TSH",
+      "D": "Subclinical Hyperthyroidism – normal T3/T4 but suppressed TSH; pituitary tumor irrelevant"
+    },
+    "correct": "B",
+    "rationale": "SECONDARY HYPERTHYROIDISM from a TSH-SECRETING TUMOR (pituitary thyrotroph adenoma) is a rare form of hyperthyroidism where the pituitary tumor autonomously secretes EXCESS TSH, which then drives the thyroid gland to overproduce T3 and T4. Both TSH AND T3/T4 are ELEVATED, which is opposite to PRIMARY HYPERTHYROIDISM (where TSH is suppressed). This is listed in the table under 'INCREASED TSH' causes (though noted that once cell death occurs in the tumor, TSH may fall). The differential diagnosis framework: Primary Hyperthyroidism = THYROID organ, HIGH T3/T4, LOW TSH; Secondary Hyperthyroidism = PITUITARY organ, HIGH T3/T4, HIGH TSH (red flag); Tertiary Hyperthyroidism = HYPOTHALAMUS, HIGH T3/T4, HIGH TSH, HIGH TRH."
+  },
+  {
+    "num": 73,
+    "difficulty": "⬥ Easy",
+    "topic": "Topic 2: Thyroid Gland – Anatomy & Biosynthesis",
+    "scenario": "A 55-year-old woman presents to the clinic with bradycardia, weight gain, dry coarse skin, cold intolerance, hair loss, constipation, and cognitive slowing. Laboratory results confirm low T3 and T4.",
+    "question": "Which condition is MOST CONSISTENT with this presentation?",
+    "options": {
+      "A": "Hyperthyroidism – excess thyroid hormone causes weight loss, heat intolerance, and tachycardia",
+      "B": "Hypothyroidism – INSUFFICIENT AMOUNT OF THYROID HORMONES causing bradycardia, weight gain, coarsened/dry skin, constipation, hoarseness, cold intolerance, hair loss, yellow skin discoloration, periorbital edema, and mental dullness/cognitive dysfunction",
+      "C": "Euthyroid Sick Syndrome – only seen in critically ill patients; not associated with hair loss",
+      "D": "Subclinical Hyperthyroidism – free T4 normal, TSH is low"
+    },
+    "correct": "B",
+    "rationale": "HYPOTHYROIDISM is defined as INSUFFICIENT AMOUNT OF THYROID HORMONES and occurs in 5–15% of women over age 65. Signs and symptoms include: BRADYCARDIA (slow heart rate), WEIGHT GAIN, COARSENED/DRY SKIN, CONSTIPATION, HOARSENESS, DYSPNEA ON EXERTION, COLD INTOLERANCE, HAIR LOSS, YELLOW DISCOLORATION OF SKIN (from HYPERCAROTENEMIA), PERIORBITAL EDEMA, and MENTAL DULLNESS/COGNITIVE DYSFUNCTION. Additional features: HYPONATREMIA (due to urinary sodium excretion and inappropriate ADH release), CARDIOMYOPATHY with HIGH CK, and HYPERLIPIDEMIA. These contrast sharply with hyperthyroidism (weight loss, heat intolerance, tachycardia)."
+  },
+  {
+    "num": 74,
+    "difficulty": "⬥ Moderate",
+    "topic": "Topic 2: Thyroid Gland – Anatomy & Biosynthesis",
+    "scenario": "A 48-year-old woman is found to have puffy face, weight gain, slow speech, dry and yellowish skin, thinned eyebrows, and anemia. Biopsy reveals mucopolysaccharide infiltration of the skin. TSH is markedly elevated.",
+    "question": "Which condition and clinical feature BEST explains the skin finding in this patient?",
+    "options": {
+      "A": "Grave's Disease – pretibial myxedema with mucopolysaccharide infiltration of the pretibial skin",
+      "B": "Myxedema – NON-PITTING EDEMA with SKIN INFILTRATION BY MUCOPOLYSACCHARIDES, seen in primary hypothyroidism; features include puffy face, weight gain, slow speech, thinned eyebrows, dry yellow skin, anemia, and in severe cases, MYXEDEMA COMA",
+      "C": "Euthyroid Sick Syndrome – edema from hypoalbuminemia with no mucopolysaccharide deposition",
+      "D": "Cushing Syndrome – buffalo hump and moon face with skin infiltration by cortisol-induced proteins"
+    },
+    "correct": "B",
+    "rationale": "MYXEDEMA is a severe form of primary hypothyroidism characterized by NON-PITTING EDEMA due to SKIN INFILTRATION BY MUCOPOLYSACCHARIDES (glycosaminoglycans). Features include: PUFFY FACE, WEIGHT GAIN, SLOW SPEECH, THINNED EYEBROWS (lateral one-third loss), DRY AND YELLOW SKIN, ANEMIA, and in extreme cases, MYXEDEMA COMA (life-threatening complication). This is distinct from Pretibial Myxedema of Grave's Disease (which affects only the pretibial/shin skin in a hyperthyroid context). Primary hypothyroidism causes include: Hashimoto's Disease, excessive iodine intake (Wolff-Chaikoff effect), low iodine, thyroid surgery, radioactive iodine treatment, and subacute thyroiditis."
+  },
+  {
+    "num": 75,
+    "difficulty": "⬥ Moderate",
+    "topic": "Topic 2: Thyroid Gland – Anatomy & Biosynthesis",
+    "scenario": "A 35-year-old woman is suspected of having Hashimoto's Disease. Her laboratory workup shows increased TSH, positive TPO antibody, and the pathologist describes the thyroid tissue as being replaced by lymphoid tissue.",
+    "question": "Which statement CORRECTLY describes the pathology of Hashimoto's Disease?",
+    "options": {
+      "A": "Hashimoto's Disease is caused by TRAbs activating TSH receptors, producing hyperthyroidism and thyroid enlargement",
+      "B": "Hashimoto's Disease (Chronic Autoimmune Thyroiditis) – THYROID IS REPLACED BY LYMPHOID TISSUE; sensitized T cells and autoantibodies bind to cell membrane causing CELL LYSIS AND INFLAMMATION; Lab: POSITIVE TPO ANTIBODY (+), TSH INCREASED; hallmark: TPOAb + TMAb + TgAb all present; may result from EXCESSIVE IODINE intake (Wolff-Chaikoff effect)",
+      "C": "Hashimoto's Disease only affects the parafollicular cells, reducing calcitonin and causing hypercalcemia",
+      "D": "Hashimoto's Disease causes hyperthyroidism in early stages and remains permanent hyperthyroidism long-term"
+    },
+    "correct": "B",
+    "rationale": "HASHIMOTO'S DISEASE (Chronic Autoimmune Thyroiditis / Chronic Lymphocytic Thyroiditis) is the MOST COMMON CAUSE of primary hypothyroidism in the developed world. Pathology: the THYROID IS REPLACED BY LYMPHOID TISSUE; sensitized T CELLS (and B CELLS producing autoantibodies) bind to the cell membrane, causing CELL LYSIS AND INFLAMMATION and eventual thyroid destruction. Laboratory findings: POSITIVE TPO ANTIBODY (+), TSH IS INCREASED (primary hypothyroidism). HALLMARK: presence of TPOAB, TMAB, and TGAB. Additional causes of primary hypothyroidism: EXCESSIVE IODINE intake – inhibits hormone production via the WOLFF-CHAIKOFF EFFECT; LOW IODINE; thyroid surgery; radioactive iodine treatment; subacute thyroiditis."
+  },
+  {
+    "num": 76,
+    "difficulty": "⬥ Easy",
+    "topic": "Topic 2: Thyroid Gland – Anatomy & Biosynthesis",
+    "scenario": "A 30-year-old female is diagnosed with Secondary Hypothyroidism following pituitary adenoma removal. Her laboratory results show low T3/T4 and unexpectedly LOW TSH.",
+    "question": "Why is TSH LOW in secondary hypothyroidism, unlike in primary hypothyroidism where TSH is HIGH?",
+    "options": {
+      "A": "In secondary hypothyroidism, the thyroid gland is overactive, suppressing TSH through negative feedback",
+      "B": "Secondary hypothyroidism results from PITUITARY DESTRUCTION or pituitary adenoma, which reduces TSH secretion; with low TSH, the thyroid is not stimulated, resulting in LOW T3/T4 and LOW TSH simultaneously",
+      "C": "Secondary hypothyroidism is caused by the thyroid directly suppressing TSH via a short feedback loop",
+      "D": "In secondary hypothyroidism, TSH is always elevated because the hypothalamus compensates by releasing more TRH"
+    },
+    "correct": "B",
+    "rationale": "SECONDARY HYPOTHYROIDISM is caused by PITUITARY DESTRUCTION or pituitary adenoma. Because the pituitary is damaged, it CANNOT secrete adequate TSH. Without TSH stimulation, the thyroid gland produces insufficient T3 and T4. The laboratory pattern is: LOW T3/T4 AND LOW TSH. This is the KEY DISTINGUISHING FEATURE from PRIMARY HYPOTHYROIDISM (where the problem is in the thyroid gland → LOW T3/T4 but HIGH TSH because the pituitary compensatorily increases TSH). TERTIARY HYPOTHYROIDISM is caused by HYPOTHALAMIC DISEASE with LOW SECRETION OF TRH, resulting in LOW TSH and LOW T3/T4. The TSH test is the most useful test for DIFFERENTIATING PRIMARY from SECONDARY HYPOTHYROIDISM."
+  },
+  {
+    "num": 77,
+    "difficulty": "⬥ Moderate",
+    "topic": "Topic 2: Thyroid Gland – Anatomy & Biosynthesis",
+    "scenario": "A newborn is found to have very low T4 on neonatal screening. The confirmatory test shows markedly elevated TSH. The pediatrician diagnoses Congenital Hypothyroidism (Cretinism) and notes the mechanism involves defects in gland development.",
+    "question": "What is the screening test and confirmatory test for Congenital Hypothyroidism, and what happens if untreated?",
+    "options": {
+      "A": "Screening: TSH; Confirmatory: T3 measurement; untreated causes hyperthyroidism",
+      "B": "Screening: DECREASED T4; Confirmatory: INCREASED TSH; if untreated, leads to PHYSICAL AND MENTAL RETARDATION due to failure of CNS/brain maturation",
+      "C": "Screening: T3 uptake; Confirmatory: TRH level; untreated causes cardiomyopathy only",
+      "D": "Screening: Reverse T3 (rT3); Confirmatory: TBG levels; untreated causes obesity only"
+    },
+    "correct": "B",
+    "rationale": "CONGENITAL HYPOTHYROIDISM (Cretinism) involves DEFECTS IN THE DEVELOPMENT OF THE THYROID GLAND. During fetal development, small amounts of MATERNAL THYROID HORMONE cross the placenta to protect the fetus, but this is insufficient if the gland is defective. NEONATAL SCREENING TEST: DECREASED T4. CONFIRMATORY TEST: INCREASED TSH. If UNTREATED, the consequence is PHYSICAL AND MENTAL RETARDATION, because thyroid hormones are essential for CNS and BRAIN MATURATION. In SUBCLINICAL HYPOTHYROIDISM: T3 and T4 are NORMAL but TSH is SLIGHTLY INCREASED. In SUBCLINICAL HYPERTHYROIDISM: Free T4 is NORMAL but TSH is LOW. Immediate hormone replacement therapy prevents permanent neurological damage."
+  },
+  {
+    "num": 78,
+    "difficulty": "⬥ Hard",
+    "topic": "Topic 2: Thyroid Gland – Anatomy & Biosynthesis",
+    "scenario": "A patient presents with hypothyroid symptoms. Laboratory results are as follows: T3/T4 = LOW, TSH = LOW, TRH = LOW. The clinician suspects a hypothalamic problem.",
+    "question": "Which type of hypothyroidism does this laboratory pattern represent, and which organ is the primary site of dysfunction?",
+    "options": {
+      "A": "Primary Hypothyroidism – thyroid origin; T3/T4 LOW, TSH HIGH, TRH HIGH",
+      "B": "Secondary Hypothyroidism – pituitary origin; T3/T4 LOW, TSH LOW, TRH HIGH",
+      "C": "Tertiary Hypothyroidism – HYPOTHALAMIC DISEASE; LOW TRH secretion → LOW TSH → LOW T3/T4; primary dysfunction at the level of the HYPOTHALAMUS",
+      "D": "Subclinical Hypothyroidism – normal T3/T4, slightly elevated TSH, low TRH"
+    },
+    "correct": "C",
+    "rationale": "The laboratory pattern of LOW T3/T4, LOW TSH, and LOW TRH indicates TERTIARY HYPOTHYROIDISM, where the primary defect is in the HYPOTHALAMUS. Low TRH secretion means the pituitary is not stimulated to produce TSH, and without TSH, the thyroid cannot produce adequate T3/T4. Summary of hypothyroidism classification: PRIMARY (Thyroid origin) → LOW T3/T4, HIGH TSH, HIGH TRH, LOW T3 uptake; SECONDARY (Pituitary origin) → LOW T3/T4, LOW TSH (red), HIGH TRH; TERTIARY (Hypothalamic origin) → LOW T3/T4, LOW TSH, LOW TRH (red); SUBCLINICAL → NORMAL T3/T4, SLIGHTLY HIGH TSH. The TSH test is crucial for differentiating primary from secondary/tertiary hypothyroidism."
+  },
+  {
+    "num": 79,
+    "difficulty": "⬥ Easy",
+    "topic": "Topic 2: Thyroid Gland – Anatomy & Biosynthesis",
+    "scenario": "A clinical chemistry student is asked which single thyroid test is considered the most important and best screening tool for thyroid disorders.",
+    "question": "Which thyroid function test is considered the MOST IMPORTANT, BEST SCREENING test, and MOST CLINICALLY SENSITIVE for detecting primary thyroid disorders?",
+    "options": {
+      "A": "Total T4 – because it measures all circulating thyroxine including bound and free forms",
+      "B": "TSH Test – the most important and useful thyroid function test, most clinically sensitive for detecting primary thyroid disorders, and used to differentiate primary from secondary hypothyroidism",
+      "C": "T3 Resin Uptake (THBR) – because it measures available binding sites and reflects TBG levels",
+      "D": "Thyroglobulin Assay – because it measures the precursor protein and is part of the routine thyroid function panel"
+    },
+    "correct": "B",
+    "rationale": "The TSH TEST is the MOST IMPORTANT and MOST USEFUL thyroid function test. It is the BEST SCREENING TEST for thyroid disorders and the MOST CLINICALLY SENSITIVE assay for detecting PRIMARY THYROID DISORDERS. It can DIFFERENTIATE PRIMARY from SECONDARY HYPOTHYROIDISM: in Primary Hypothyroidism, TSH is HIGH (pituitary compensates); in Secondary Hypothyroidism, TSH is LOW (pituitary is the site of problem). Note: THYROGLOBULIN (Tg) ASSAY is a post-operative marker of THYROID CANCER and monitors metastatic or recurrent thyroid cancer – it is specifically noted as NOT A PART OF ROUTINE THYROID FUNCTION TESTS."
+  },
+  {
+    "num": 80,
+    "difficulty": "⬥ Moderate",
+    "topic": "Topic 2: Thyroid Gland – Anatomy & Biosynthesis",
+    "scenario": "A patient has an elevated TOTAL T4 but appears clinically euthyroid. The physician orders a Free Thyroxine Index (FT4I or T7) to clarify whether hyperthyroidism is truly present.",
+    "question": "What does the Free Thyroxine Index (FT4I) measure and how is it interpreted?",
+    "options": {
+      "A": "FT4I directly measures free T4 by immunoassay; elevated result always indicates hyperthyroidism",
+      "B": "FT4I = Total T4 × THBR; it INDIRECTLY ASSESSES FREE T4; INCREASED = hyperthyroid; DECREASED = hypothyroid; NORMAL with HIGH TOTAL T4 = EUTHYROID with EXCESSIVE TBG; useful for correcting euthyroid individuals with high TBG but normal thyroid function",
+      "C": "FT4I = TSH × TRH; a ratio that differentiates primary from secondary hypothyroidism",
+      "D": "FT4I directly measures the concentration of TBG in serum; elevated means hypothyroidism"
+    },
+    "correct": "B",
+    "rationale": "The FREE THYROXINE INDEX (FT4I, also called T7) INDIRECTLY ASSESSES the level of FREE T4 in the blood. Formula: FT4I = TOTAL T4 × THBR (Thyroid Hormone-Binding Ratio – how many binding proteins are available). Interpretation: INCREASED FT4I = HYPERTHYROID; DECREASED FT4I = HYPOTHYROID; NORMAL FT4I but HIGH TOTAL T4 = EUTHYROID with EXCESSIVE TBG (no thyroid malfunction). This test is IMPORTANT IN CORRECTING EUTHYROID INDIVIDUALS who have HIGH TBG but NORMAL THYROID HORMONES, such as pregnant women or patients on estrogen. Because some individuals synthesize excessive TBG without thyroid malfunction, total T4 alone is misleading – FT4I corrects for TBG levels."
+  },
+  {
+    "num": 81,
+    "difficulty": "⬥ Moderate",
+    "topic": "Topic 2: Thyroid Gland – Anatomy & Biosynthesis",
+    "scenario": "A laboratory technologist is reviewing the T3 Resin Uptake test (T3RU/THBR). She is confused about why the T3 uptake is HIGH in hyperthyroidism but LOW in hypothyroidism.",
+    "question": "Which statement CORRECTLY explains the T3 Resin Uptake (THBR) test and its inverse relationship with TBG?",
+    "options": {
+      "A": "T3RU directly measures T3 levels in serum; high T3RU means more T3 hormone",
+      "B": "T3RU INDIRECTLY MEASURES AVAILABLE TBG BINDING SITES using radiolabeled T3; there is an INVERSE RELATIONSHIP between THBR and TBG concentration: HIGH TBG → LOW THBR; LOW TBG → HIGH THBR; in HYPERTHYROIDISM (low TBG, saturated), THBR is HIGH; in HYPOTHYROIDISM (high TBG available), THBR is LOW",
+      "C": "T3RU measures TRH levels; high TRH means high T3 resin uptake",
+      "D": "T3RU is the same as the TSH stimulation test; used only to differentiate primary from secondary hypothyroidism"
+    },
+    "correct": "B",
+    "rationale": "The T3 RESIN UPTAKE TEST (T3RU / THBR – Thyroid Hormone-Binding Ratio) INDIRECTLY MEASURES the AVAILABLE TBG BINDING SITES using RADIOLABELED T3. A known amount of radiolabeled T3 is added to the test serum; the labeled FT3 that is NOT bound (remaining free) is measured. KEY PRINCIPLE: INVERSE RELATIONSHIP between THBR and TBG concentration. In HYPERTHYROIDISM: excess T4 has already saturated TBG → LOW TBG availability → HIGH THBR (more radiolabeled T3 remains free). In HYPOTHYROIDISM: few endogenous T4 molecules means TBG has many empty sites → HIGH TBG availability → LOW THBR (radiolabeled T3 binds to available TBG). INCREASED T3RU: Hyperthyroidism, malnutrition, nephrotic syndrome, hypoproteinemia. DECREASED T3RU: Hypothyroidism, oral contraceptives, pregnancy, acute hepatitis, chronic liver disease."
+  },
+  {
+    "num": 82,
+    "difficulty": "⬥ Hard",
+    "topic": "Topic 2: Thyroid Gland – Anatomy & Biosynthesis",
+    "scenario": "A clinical chemistry student is asked to complete a table of hormone levels in hyperthyroidism across different types (Primary, Secondary, Tertiary, and Subclinical). She must fill in the T3 Uptake column.",
+    "question": "Which statement CORRECTLY describes the T3 Uptake (THBR) in PRIMARY HYPERTHYROIDISM compared to PRIMARY HYPOTHYROIDISM?",
+    "options": {
+      "A": "Both primary hyperthyroidism and primary hypothyroidism show HIGH T3 uptake",
+      "B": "Primary Hyperthyroidism: HIGH T3 uptake (TBG saturated by excess T4 → less available TBG binding sites → more radiolabeled T3 remains free); Primary Hypothyroidism: LOW T3 uptake (little T4, TBG has many available sites → radiolabeled T3 is captured by available TBG)",
+      "C": "Primary Hyperthyroidism: LOW T3 uptake; Primary Hypothyroidism: HIGH T3 uptake",
+      "D": "T3 uptake cannot differentiate primary hyperthyroidism from primary hypothyroidism"
+    },
+    "correct": "B",
+    "rationale": "The T3 RESIN UPTAKE (THBR) reflects AVAILABLE TBG BINDING SITES and has an INVERSE RELATIONSHIP with TBG concentration. PRIMARY HYPERTHYROIDISM (Thyroid origin): excess T3/T4 → TBG becomes SATURATED → FEW AVAILABLE binding sites → added radiolabeled T3 cannot bind → HIGH THBR. PRIMARY HYPOTHYROIDISM (Thyroid origin): deficient T3/T4 → TBG has MANY AVAILABLE EMPTY SITES → added radiolabeled T3 BINDS to available TBG → LOW THBR. Summary from the lecture table: Hyperthyroidism: T3/T4 ↑, TSH ↓, TRH ↓, T3 Uptake ↑; Hypothyroidism: T3/T4 ↓, TSH ↑, TRH ↑, T3 Uptake ↓. T3 Uptake is INCREASED in all types of hyperthyroidism (primary, secondary, tertiary, subclinical) and DECREASED in all types of hypothyroidism."
+  },
+  {
+    "num": 83,
+    "difficulty": "⬥ Moderate",
+    "topic": "Topic 2: Thyroid Gland – Anatomy & Biosynthesis",
+    "scenario": "A physician orders a Thyroxine-Binding Globulin (TBG) assay for a patient to help interpret conflicting results between Total T4 and THBR. The total T4 is elevated but the patient is clinically asymptomatic.",
+    "question": "In which clinical situations is TBG INCREASED, and how does this affect total T4 and THBR?",
+    "options": {
+      "A": "TBG is increased by hyperthyroidism, anabolic steroids, and nephrosis; increased TBG causes LOW total T4",
+      "B": "TBG is increased by HYPOTHYROIDISM, PREGNANCY, and ESTROGEN; increased TBG means more T4 is bound, raising TOTAL T4, but FREE T4 is normal; the THBR (T3 uptake) will be LOW because TBG has more available empty binding sites",
+      "C": "TBG is increased by hyperthyroidism and androgens; causes decreased total T4 and increased THBR",
+      "D": "TBG is decreased by pregnancy and estrogen use; causes high free T4 and low THBR"
+    },
+    "correct": "B",
+    "rationale": "THYROXINE-BINDING GLOBULIN (TBG) levels are INCREASED in: HYPOTHYROIDISM, PREGNANCY, and ESTROGEN therapy (oral contraceptives, hormone replacement). When TBG is increased, more T4 is bound → TOTAL T4 is ELEVATED; however, FREE T4 may remain normal (euthyroid). Because TBG has many AVAILABLE EMPTY BINDING SITES, the T3 RESIN UPTAKE (THBR) is LOW (inverse relationship). TBG is DECREASED in: HYPERTHYROIDISM, ANABOLIC STEROIDS, and NEPHROSIS. TBG is useful for distinguishing TRUE HYPERTHYROIDISM (high free T4 from excess production) from EUTHYROIDISM with high TBG (high total T4 but normal free T4). Total serum T3 and T4 are DEPENDENT on the amount of TBG."
+  },
+  {
+    "num": 84,
+    "difficulty": "⬥ Moderate",
+    "topic": "Topic 2: Thyroid Gland – Anatomy & Biosynthesis",
+    "scenario": "A patient undergoes thyroid cancer surgery. The surgeon wants to determine if all thyroid tissue has been removed. A specific marker is measured intraoperatively and shows a rapid fall after surgery.",
+    "question": "Which laboratory test is used POST-OPERATIVELY to monitor thyroid cancer recurrence or metastasis, and which test is used intraoperatively to assess completeness of resection?",
+    "options": {
+      "A": "TSH assay post-operatively; Calcitonin intraoperatively for completeness of thyroid resection",
+      "B": "Thyroglobulin (Tg) Assay – post-operative marker for thyroid CANCER recurrence/metastasis; PTH (intraoperatively for parathyroid resection) rapid FALL is used to assess completeness; Tg is NOT part of routine thyroid function tests",
+      "C": "Free T4 – post-operative marker of thyroid cancer; T3 resin uptake intraoperatively",
+      "D": "Reverse T3 (rT3) – post-operative marker for thyroid cancer; TRH intraoperatively for completeness of resection"
+    },
+    "correct": "B",
+    "rationale": "THYROGLOBULIN (Tg) ASSAY: synthesized and secreted EXCLUSIVELY by thyroid FOLLICULAR CELLS; used as a POST-OPERATIVE MARKER OF THYROID CANCER to monitor the COURSE of metastatic or RECURRENT thyroid cancer. After total thyroidectomy, Tg should be undetectable; rising Tg indicates recurrence. Importantly, Tg is NOT A PART OF ROUTINE THYROID FUNCTION TESTS. For SERUM CALCITONIN: used as a tumor marker for detecting RESIDUAL THYROID METASTASIS in MEDULLARY THYROID CARCINOMA (MTC) – derived from parafollicular C cells. For parathyroid surgery: PTH is quantified in plasma (EDTA preferred), with a RAPID FALL of PTH used to confirm completeness of parathyroid resection. FINE-NEEDLE ASPIRATION is the MOST ACCURATE tool for evaluating thyroid NODULES."
+  },
+  {
+    "num": 85,
+    "difficulty": "⬥ Moderate",
+    "topic": "Topic 2: Thyroid Gland – Anatomy & Biosynthesis",
+    "scenario": "A 50-year-old male with a thyroid nodule undergoes a fine-needle aspiration (FNA). Meanwhile, his physician also orders a radioactive iodine uptake (RAIU) scan.",
+    "question": "What does the RAIU test measure, and what is the significance of HIGH uptake in the presence of TSH deficiency?",
+    "options": {
+      "A": "RAIU measures the ability of the pituitary to produce TSH; high uptake with low TSH means secondary hypothyroidism",
+      "B": "RAIU measures the ABILITY OF THE THYROID GLAND TO TRAP IODINE; TSH stimulates iodine uptake; HIGH uptake + TSH DEFICIENCY = AUTONOMOUS THYROID ACTIVITY (functioning independently of TSH stimulation); FNA is the MOST ACCURATE TOOL for evaluating thyroid NODULES",
+      "C": "RAIU measures calcitonin production by parafollicular cells; high uptake indicates medullary thyroid carcinoma",
+      "D": "RAIU directly measures T4 secretion rate; high uptake always indicates hyperthyroidism regardless of TSH"
+    },
+    "correct": "B",
+    "rationale": "RADIOACTIVE IODINE UPTAKE (RAIU) / NUCLEAR MEDICINE EVALUATION measures the ABILITY OF THE THYROID GLAND TO TRAP IODINE. Normal physiology: TSH stimulates iodine uptake. Key clinical significance: HIGH UPTAKE + TSH DEFICIENCY = AUTONOMOUS THYROID ACTIVITY – the thyroid is functioning independently of TSH, as in TOXIC ADENOMAS AND MULTINODULAR GOITER where thyroid tissue produces T3/T4 autonomously. FINE-NEEDLE ASPIRATION (FNA) is the MOST ACCURATE TOOL in the evaluation of THYROID NODULES, helps identify thyroid malignancies, avoids unnecessary surgery, and is reported according to the BETHESDA SYSTEM FOR REPORTING THYROID CYTOPATHOLOGY. THYROID ULTRASOUND is used for assessment of thyroid ANATOMY and characterization of palpable thyroid abnormalities."
+  },
+  {
+    "num": 86,
+    "difficulty": "⬥ Hard",
+    "topic": "Topic 2: Thyroid Gland – Anatomy & Biosynthesis",
+    "scenario": "A 40-year-old woman presents with elevated TSH and weight gain. On workup: TSH = HIGH, T3/T4 = LOW, TRH = HIGH, T3 Uptake = LOW. The clinician identifies this as Primary Hypothyroidism. A medical student asks why TRH is high.",
+    "question": "In PRIMARY HYPOTHYROIDISM, why would TRH be elevated?",
+    "options": {
+      "A": "TRH is always high in hypothyroidism because the hypothalamus is the primary diseased organ",
+      "B": "In Primary Hypothyroidism, the thyroid gland itself is failing → LOW T3/T4 → LOSS OF NEGATIVE FEEDBACK at both the pituitary (short loop) and hypothalamus (long loop) levels → COMPENSATORY RISE IN BOTH TSH AND TRH as the system tries to stimulate the failing thyroid gland",
+      "C": "TRH is high because the pituitary is producing excess TSH which stimulates TRH through a positive feedback",
+      "D": "TRH is high because low T4 directly stimulates the hypothalamus to produce TRH without going through the feedback loop"
+    },
+    "correct": "B",
+    "rationale": "In PRIMARY HYPOTHYROIDISM (thyroid gland failure), the cascade is: THYROID GLAND FAILS → LOW T3/T4 → REMOVAL OF NEGATIVE FEEDBACK on both the pituitary (short feedback loop) and the hypothalamus (long feedback loop) → COMPENSATORY RISE IN TSH (pituitary response) AND TRH (hypothalamic response). The system is attempting to stimulate the failing thyroid. Lab summary for Primary Hypothyroidism: T3/T4 ↓ (red), TSH ↑, TRH ↑, T3 Uptake ↓. Contrast with Tertiary Hypothyroidism (hypothalamic disease): LOW TRH (red, primary defect) → LOW TSH → LOW T3/T4. This distinction is critical for the LONG FEEDBACK LOOP (T3/T4 regulates TRH at the hypothalamic level) and SHORT FEEDBACK LOOP (T3/T4 regulates TSH at the pituitary level)."
+  },
+  {
+    "num": 87,
+    "difficulty": "⬥ Moderate",
+    "topic": "Topic 2: Thyroid Gland – Anatomy & Biosynthesis",
+    "scenario": "A clinical chemistry teacher presents two results to the class: Result 1 – TOTAL T4 is HIGH. Result 2 – TOTAL T3 is HIGH. She tells the class these results do NOT necessarily confirm hyperthyroidism.",
+    "question": "Why are elevated TOTAL T3 and TOTAL T4 alone NOT sufficient to diagnose hyperthyroidism?",
+    "options": {
+      "A": "Total T3 and T4 are always accurate for diagnosing hyperthyroidism; the teacher is incorrect",
+      "B": "TOTAL T3 AND T4 include both protein-bound (INACTIVE) and free (ACTIVE) forms; elevated TOTAL levels may reflect excess TBG protein rather than excess active hormone; TRUE HYPERTHYROIDISM requires assessment of FREE T3 and FREE T4 (active forms) or confirmation by SUPPRESSED TSH",
+      "C": "Total T3 and T4 are only elevated in hypothyroidism; elevated levels rule out hyperthyroidism",
+      "D": "Total T4 is the active form while Total T3 is inactive; only total T4 matters in diagnosis"
+    },
+    "correct": "B",
+    "rationale": "TOTAL T3 AND TOTAL T4 = PROTEIN BOUND (INACTIVE) + FREE (ACTIVE) THYROID HORMONES. Elevated TOTAL levels can reflect: (1) Truly elevated free hormones (actual hyperthyroidism), OR (2) ELEVATED TBG (e.g., pregnancy, estrogen) binding more hormone, increasing the TOTAL but leaving FREE T4 NORMAL (euthyroid). Since binding proteins SIGNIFICANTLY AFFECT circulating T3 and T4, HYPER- AND HYPOTHYROIDISM SHOULD BE DIAGNOSED BASED ON THE NUMBER OF ACTIVE (FREE) FORMS. Clinical cases exist where individuals SYNTHESIZE EXCESSIVE TBG WITHOUT ANY MALFUNCTION IN THE THYROID GLAND, resulting in elevated TOTAL T4 but normal FREE T4. The FREE THYROXINE INDEX (FT4I = Total T4 × THBR) corrects for TBG abnormalities."
+  },
+  {
+    "num": 88,
+    "difficulty": "⬥ Hard",
+    "topic": "Topic 2: Thyroid Gland – Anatomy & Biosynthesis",
+    "scenario": "A physician needs to decide whether a patient's elevated TSH indicates PRIMARY or SECONDARY hypothyroidism. He reviews the TSH test characteristics.",
+    "question": "Which clinical conditions are associated with INCREASED TSH versus DECREASED TSH?",
+    "options": {
+      "A": "INCREASED TSH: Primary Hyperthyroidism (High T3/T4), Grave's Disease; DECREASED TSH: Primary Hypothyroidism (Low T3/T4), Hashimoto's",
+      "B": "INCREASED TSH: Primary Hypothyroidism (Low T3/T4), Hashimoto's Thyroiditis (Low T3/T4), TSH-Secreting Tumor, TSH Antibodies (hyperfunction), Thyroid Hormone Resistance; DECREASED TSH: Primary Hyperthyroidism (High T3/T4), Secondary and Tertiary Hypothyroidism, Grave's Disease (High T3/T4), Euthyroid Sick Disease (High Total T4), Overreplacement of thyroid hormone in hypothyroidism",
+      "C": "INCREASED TSH: Subclinical Hyperthyroidism, Euthyroid Sick Syndrome; DECREASED TSH: Congenital Hypothyroidism, Hashimoto's Disease",
+      "D": "INCREASED TSH: All forms of hypothyroidism; DECREASED TSH: All forms of hyperthyroidism"
+    },
+    "correct": "B",
+    "rationale": "INCREASED TSH occurs in: (1) PRIMARY HYPOTHYROIDISM (Low T3/T4); (2) HASHIMOTO'S THYROIDITIS (Low T3/T4); (3) THYROTOXICOSIS DUE TO PITUITARY TUMOR (once cell death occurs); (4) TSH ANTIBODIES (hyperfunction); (5) THYROID HORMONES RESISTANCE (making T3/T4). DECREASED TSH occurs in: (1) PRIMARY HYPERTHYROIDISM (High T3/T4); (2) SECONDARY AND TERTIARY HYPOTHYROIDISM (Low TSH = problem at pituitary or hypothalamus); (3) GRAVE'S DISEASE (High T3/T4); (4) EUTHYROID SICK DISEASE (High Total T4, but normal thyroid function); (5) OVERREPLACEMENT of thyroid hormone in hypothyroidism (High T3/T4 from exogenous administration suppresses TSH). This table is fundamental to interpreting thyroid panels."
+  },
+  {
+    "num": 89,
+    "difficulty": "⬥ Easy",
+    "topic": "Topic 2: Thyroid Gland – Anatomy & Biosynthesis",
+    "scenario": "A resident physician is treating a patient for medullary thyroid carcinoma (MTC) and wants to monitor for residual disease after surgery. A classmate asks which tumor marker is most appropriate.",
+    "question": "Which tumor marker is used to detect RESIDUAL thyroid metastasis specifically in MEDULLARY THYROID CARCINOMA (MTC)?",
+    "options": {
+      "A": "Thyroglobulin (Tg) – produced by all types of thyroid cancer including medullary carcinoma",
+      "B": "Serum CALCITONIN – tumor marker for detecting RESIDUAL thyroid metastasis in MEDULLARY THYROID CARCINOMA (MTC), which arises from the parafollicular (C) cells that normally produce calcitonin",
+      "C": "TSH – elevated in medullary thyroid carcinoma as TSH stimulates C cell growth",
+      "D": "Reverse T3 (rT3) – elevated in medullary carcinoma due to altered T4 metabolism"
+    },
+    "correct": "B",
+    "rationale": "SERUM CALCITONIN is the tumor marker for MEDULLARY THYROID CARCINOMA (MTC). MTC arises from PARAFOLLICULAR (C) CELLS, which are the normal producers of CALCITONIN in the thyroid gland. After surgical treatment of MTC, serum calcitonin is monitored to detect RESIDUAL disease or METASTASIS. THYROGLOBULIN (Tg), on the other hand, is the tumor marker for FOLLICULAR CELL-DERIVED thyroid cancers (papillary and follicular carcinoma), as it is produced exclusively by FOLLICULAR CELLS. Tg is a post-operative marker of thyroid cancer used to monitor course of metastatic or recurrent thyroid cancer. Fine-Needle Aspiration (FNA) is the most accurate tool for initially evaluating thyroid nodules."
+  },
+  {
+    "num": 90,
+    "difficulty": "⬥ Moderate",
+    "topic": "Topic 2: Thyroid Gland – Anatomy & Biosynthesis",
+    "scenario": "A patient with nephrotic syndrome is being evaluated for thyroid dysfunction. Lab results show: T3 Resin Uptake (THBR) = HIGH; TBG = LOW; Total T4 = LOW.",
+    "question": "Which interpretation of these thyroid laboratory results is CORRECT for a patient with nephrotic syndrome?",
+    "options": {
+      "A": "The patient has primary hypothyroidism because total T4 is low and THBR is high",
+      "B": "The LOW TBG (from urinary protein loss in nephrotic syndrome) results in LOW TOTAL T4 (less bound T4) and HIGH THBR (more available radiolabeled T3 since fewer TBG binding sites); FREE T4 remains NORMAL – the patient may be EUTHYROID (clinical context required)",
+      "C": "The patient has hyperthyroidism because THBR is high regardless of the cause",
+      "D": "The patient has Euthyroid Sick Syndrome because rT3 is always elevated in nephrotic syndrome"
+    },
+    "correct": "B",
+    "rationale": "NEPHROTIC SYNDROME causes urinary loss of TBG (proteinuria includes TBG). CONSEQUENCE: LOW TBG → LESS BOUND T4 → LOW TOTAL T4. Because fewer TBG binding sites are available, added radiolabeled T3 cannot bind to occupied TBG → HIGH THBR (T3 resin uptake). HOWEVER, FREE T4 (active form) may remain normal, meaning the patient could be EUTHYROID with LOW TBG rather than truly hypothyroid. This is why TOTAL T4 alone cannot diagnose hypo/hyperthyroidism. Conditions causing HIGH T3 RESIN UPTAKE: Hyperthyroidism, MALNUTRITION, NEPHROTIC SYNDROME, HYPOPROTEINEMIA. Conditions causing LOW T3 RESIN UPTAKE: Hypothyroidism, ORAL CONTRACEPTIVES, PREGNANCY, ACUTE HEPATITIS, CHRONIC LIVER DISEASE."
+  },
+  {
+    "num": 91,
+    "difficulty": "⬥ Hard",
+    "topic": "Topic 2: Thyroid Gland – Anatomy & Biosynthesis",
+    "scenario": "A 28-year-old woman on oral contraceptive pills has a Total T4 of 14 μg/dL (above normal range). Her physician suspects an altered TBG level rather than true hyperthyroidism. Her T3 Resin Uptake (THBR) comes back LOW.",
+    "question": "Which interpretation of these results is CORRECT, and what additional test would confirm euthyroid status?",
+    "options": {
+      "A": "High Total T4 + Low THBR = TRUE HYPERTHYROIDISM; confirm with RAIU scan",
+      "B": "High Total T4 + LOW THBR = EUTHYROID with HIGH TBG (oral contraceptives/estrogen increase TBG → more T4 bound → high Total T4, but TBG has many available sites → low THBR); FT4I (Free Thyroxine Index) = Total T4 × THBR would yield a NORMAL result, confirming EUTHYROID status",
+      "C": "High Total T4 + Low THBR = PRIMARY HYPOTHYROIDISM; confirm with elevated TSH",
+      "D": "High Total T4 + Low THBR = Subclinical Hyperthyroidism; confirm with low-normal TSH"
+    },
+    "correct": "B",
+    "rationale": "ORAL CONTRACEPTIVES (estrogen) INCREASE TBG production. High TBG binds MORE T4 → ELEVATED TOTAL T4. Because TBG has MORE AVAILABLE EMPTY BINDING SITES (high TBG, normal amount of T4), the THBR (T3 resin uptake) is LOW (more radiolabeled T3 is captured by available TBG sites). To confirm EUTHYROID status: FT4I = TOTAL T4 × THBR → the high Total T4 and low THBR CANCEL EACH OTHER OUT, yielding a NORMAL FT4I, confirming the patient is euthyroid. This is the clinical utility of FT4I – it CORRECTS FOR TBG ABNORMALITIES. True hyperthyroidism would show HIGH Total T4, HIGH THBR, and HIGH FT4I, with LOW TSH."
+  },
+  {
+    "num": 92,
+    "difficulty": "⬥ Easy",
+    "topic": "Topic 2: Thyroid Gland – Anatomy & Biosynthesis",
+    "scenario": "A medical technology student is studying the parathyroid gland for a board exam review session on endocrinology.",
+    "question": "Which statement CORRECTLY describes the parathyroid gland's anatomy and its secreted hormone?",
+    "options": {
+      "A": "The parathyroid gland is the LARGEST endocrine gland, located anterior to the trachea; it secretes calcitonin",
+      "B": "The parathyroid gland is the SMALLEST endocrine gland, located on or near the thyroid capsule (sometimes within the thyroid); it secretes PARATHYROID HORMONE (PTH) – a HYPERCALCEMIC HORMONE – synthesized by CHIEF CELLS as a PREPROHORMONE",
+      "C": "The parathyroid gland is located in the adrenal medulla; it secretes epinephrine and PTH",
+      "D": "The parathyroid gland has two cell types: follicular cells that produce PTH and parafollicular cells that produce calcitonin"
+    },
+    "correct": "B",
+    "rationale": "The PARATHYROID GLAND is the SMALLEST ENDOCRINE GLAND IN THE BODY. It is located on or near the THYROID CAPSULE, or sometimes within the thyroid gland itself (which is why it may be accidentally removed during thyroid surgery). It secretes PARATHYROID HORMONE (PTH), which is a HYPERCALCEMIC HORMONE (raises blood calcium levels). PTH is synthesized by CHIEF CELLS as a PREPROHORMONE (prepro-PTH → pro-PTH → PTH). PTH secretion is regulated by blood calcium: STIMULATED by LOW FREE CALCIUM; SUPPRESSED by HIGH FREE CALCIUM. PTH is measured using EDTA tubes (preferred – stabilizes PTH) via ELECTROCHEMILUMINESCENCE IMMUNOASSAY (ECLIA)."
+  },
+  {
+    "num": 93,
+    "difficulty": "⬥ Moderate",
+    "topic": "Topic 2: Thyroid Gland – Anatomy & Biosynthesis",
+    "scenario": "A physiology professor asks students to trace all the mechanisms by which PTH maintains blood calcium within normal range.",
+    "question": "Which set of actions CORRECTLY describes how PTH prevents hypocalcemia?",
+    "options": {
+      "A": "PTH decreases renal reabsorption of calcium, inhibits vitamin D activation, and promotes bone formation to lower blood calcium",
+      "B": "PTH prevents hypocalcemia by: (1) promoting BONE RESORPTION (releases calcium into bloodstream); (2) increasing RENAL REABSORPTION OF CALCIUM; (3) stimulating CONVERSION of inactive Vitamin D to activated Vit. D3 / 1,25(OH)2D; (4) INDIRECTLY stimulating calcium and phosphate ABSORPTION IN THE INTESTINES",
+      "C": "PTH acts only on the kidneys to promote phosphate reabsorption; calcium regulation is purely calcitonin-dependent",
+      "D": "PTH promotes calcium deposition into bone and reduces intestinal calcium absorption to prevent hypercalcemia"
+    },
+    "correct": "B",
+    "rationale": "PTH prevents HYPOCALCEMIA through multiple mechanisms: (1) BONE RESORPTION – promotes osteoclast activity to release CALCIUM into the bloodstream; (2) RENAL REABSORPTION OF CALCIUM – increases calcium reabsorption from renal tubules; (3) ACTIVATION OF VITAMIN D – stimulates CONVERSION of inactive Vit. D to ACTIVATED VIT. D3 (1,25-dihydroxycholecalciferol / 1,25(OH)2D / Calcitriol) in the kidneys; (4) INDIRECT INTESTINAL ABSORPTION – activated Vit. D3 promotes CALCIUM AND PHOSPHATE ABSORPTION IN THE INTESTINES. Overall function of PTH: (a) Prevent hypocalcemia; (b) Preserve calcium and phosphate within NORMAL RANGE; (c) All effects serve to RAISE blood calcium. Stimulated by: LOW FREE CALCIUM; Suppressed by: HIGH FREE CALCIUM."
+  },
+  {
+    "num": 94,
+    "difficulty": "⬥ Moderate",
+    "topic": "Topic 2: Thyroid Gland – Anatomy & Biosynthesis",
+    "scenario": "A 50-year-old male is found on routine blood work to have elevated serum PTH and elevated ionized calcium. Imaging reveals a parathyroid adenoma.",
+    "question": "Which condition does this patient have, and what is the most common cause and laboratory pattern?",
+    "options": {
+      "A": "Secondary Hyperparathyroidism – HIGH PTH with LOW ionized calcium; caused by Vitamin D deficiency or renal failure",
+      "B": "Primary Hyperparathyroidism – INCREASED PTH with INCREASED IONIZED CALCIUM; most common cause is PRESENCE OF ADENOMA (parathyroid carcinoma or hyperplasia); the adenoma autonomously secretes excess PTH",
+      "C": "Hypoparathyroidism – LOW PTH and LOW calcium due to parathyroid adenoma compressing normal tissue",
+      "D": "Primary Hypoparathyroidism – HIGH PTH with LOW ionized calcium; adenoma causes autonomous calcium uptake into bone"
+    },
+    "correct": "B",
+    "rationale": "PRIMARY HYPERPARATHYROIDISM is characterized by INCREASED PTH = INCREASED IONIZED CALCIUM (hypercalcemia). It is the MOST COMMON form of hyperparathyroidism. The most frequent cause is PRESENCE OF A PARATHYROID ADENOMA (benign tumor of the parathyroid gland); other causes include parathyroid carcinoma and hyperplasia. The adenoma autonomously secretes excess PTH regardless of blood calcium levels. SECONDARY HYPERPARATHYROIDISM differs: it shows HIGH PTH = LOW IONIZED CALCIUM – it is a COMPENSATORY response to chronic hypocalcemia caused by VITAMIN D DEFICIENCY or RENAL FAILURE (which impairs calcium absorption and Vitamin D activation). The compensatory rise in PTH is appropriate but can itself cause complications."
+  },
+  {
+    "num": 95,
+    "difficulty": "⬥ Moderate",
+    "topic": "Topic 2: Thyroid Gland – Anatomy & Biosynthesis",
+    "scenario": "A 45-year-old female with chronic kidney disease (CKD) presents with bone pain and elevated PTH. Her ionized calcium is LOW. Her physician explains this is a compensatory response to her kidney disease.",
+    "question": "Which mechanism BEST explains Secondary Hyperparathyroidism in chronic renal failure?",
+    "options": {
+      "A": "CKD causes autonomous PTH secretion by a parathyroid adenoma, leading to hypercalcemia",
+      "B": "CKD impairs ACTIVATION OF VITAMIN D (kidneys cannot convert inactive to active Vit. D3) → REDUCED intestinal calcium absorption → CHRONICALLY LOW IONIZED CALCIUM → COMPENSATORY RISE IN PTH (Secondary Hyperparathyroidism); HIGH PTH = LOW Ionized calcium (unlike Primary where HIGH PTH = HIGH calcium)",
+      "C": "CKD causes the parathyroid gland to atrophy, reducing PTH and causing hypocalcemia through a different mechanism",
+      "D": "CKD increases calcium excretion in urine, which directly stimulates PTH through the renin-angiotensin mechanism"
+    },
+    "correct": "B",
+    "rationale": "In CHRONIC RENAL FAILURE (CKD), the damaged kidneys CANNOT ACTIVATE Vitamin D (the kidneys are responsible for converting 25-OH-Vit.D to ACTIVE 1,25-(OH)2-Vit.D3). Without active Vit. D3, INTESTINAL CALCIUM ABSORPTION IS REDUCED → CHRONICALLY LOW IONIZED CALCIUM → the parathyroid gland responds COMPENSATORILY by increasing PTH secretion = SECONDARY HYPERPARATHYROIDISM. Lab pattern: HIGH PTH + LOW IONIZED CALCIUM. This is distinguished from PRIMARY HYPERPARATHYROIDISM (HIGH PTH + HIGH IONIZED CALCIUM from adenoma). Other causes of Secondary Hyperparathyroidism: VITAMIN D DEFICIENCY. Treatment addresses the underlying cause (Vit. D supplementation, phosphate binders in CKD)."
+  },
+  {
+    "num": 96,
+    "difficulty": "⬥ Hard",
+    "topic": "Topic 2: Thyroid Gland – Anatomy & Biosynthesis",
+    "scenario": "A 38-year-old woman undergoes total thyroidectomy. Post-operatively, she develops tetany, muscle cramps, and paresthesias. Lab results show LOW PTH and LOW calcium. The surgeon suspects unintentional removal of the parathyroid glands.",
+    "question": "Which condition has developed, what are its causes, and how is PTH measured in this context?",
+    "options": {
+      "A": "Primary Hyperparathyroidism – caused by PTH overproduction; treated with parathyroidectomy",
+      "B": "HYPOPARATHYROIDISM – LOW PTH AND LOW CALCIUM; caused by INJURY TO OR UNINTENTIONAL REMOVAL of the parathyroid gland during thyroid surgery; other causes include autoimmune parathyroid destruction, osteomalacia, inborn errors of metabolism; treatment: CALCIUM SUPPLEMENT; PTH is quantified in PLASMA (EDTA PREFERRED – stabilizes PTH) via ELECTROCHEMILUMINESCENCE IMMUNOASSAY (ECLIA)",
+      "C": "Secondary Hyperparathyroidism – LOW PTH and HIGH calcium caused by Vitamin D deficiency",
+      "D": "Euthyroid Sick Syndrome – low PTH from systemic illness in a post-surgical patient"
+    },
+    "correct": "B",
+    "rationale": "HYPOPARATHYROIDISM is defined by LOW PTH AND LOW CALCIUM (hypocalcemia). Symptoms of hypocalcemia include TETANY (muscle spasms), MUSCLE CRAMPS, and PARESTHESIAS. CAUSES: (1) INJURY TO THE PARATHYROID GLAND; (2) UNINTENTIONAL REMOVAL DURING THYROID SURGERY (the parathyroids are small and closely associated with the thyroid); (3) Autoimmune parathyroid destruction; (4) Osteomalacia; (5) Inborn errors of metabolism. TREATMENT: CALCIUM SUPPLEMENT. LABORATORY METHODS: PTH is quantified in PLASMA (EDTA PREFERRED – EDTA stabilizes PTH); surgeons use a rapid PTH assay intraoperatively to confirm complete resection of parathyroid tissue (rapid FALL of PTH confirms success); method: ELECTROCHEMILUMINESCENCE IMMUNOASSAY (ECLIA)."
+  },
+  {
+    "num": 97,
+    "difficulty": "⬥ Easy",
+    "topic": "Topic 2: Thyroid Gland – Anatomy & Biosynthesis",
+    "scenario": "A clinical laboratory scientist is preparing to measure PTH levels and must select the appropriate anticoagulant tube for specimen collection.",
+    "question": "Which specimen collection tube and method is PREFERRED for PTH measurement, and why?",
+    "options": {
+      "A": "Serum (Red-top SST tube) – PTH is stable at room temperature and no anticoagulant is needed",
+      "B": "EDTA PLASMA (EDTA tube) – PREFERRED because EDTA STABILIZES PTH; PTH is measured by ELECTROCHEMILUMINESCENCE IMMUNOASSAY (ECLIA); a rapid fall in PTH levels can be used intraoperatively to assess completeness of parathyroid resection",
+      "C": "Heparin plasma (Green-top) – heparin prevents PTH degradation better than EDTA",
+      "D": "Citrate plasma (Blue-top) – citrate binds calcium and prevents PTH feedback suppression during collection"
+    },
+    "correct": "B",
+    "rationale": "For PTH (Parathyroid Hormone) measurement: EDTA PLASMA is the PREFERRED specimen because EDTA STABILIZES PTH, preventing degradation. PTH is measured by ELECTROCHEMILUMINESCENCE IMMUNOASSAY (ECLIA). Clinical application: PTH can be measured INTRAOPERATIVELY (rapid PTH assay) to assist the surgeon in determining COMPLETENESS OF RESECTION of the parathyroid gland; a RAPID FALL of PTH levels post-resection confirms successful removal. This is important in PRIMARY HYPERPARATHYROIDISM surgery. Note: This is parallel to the specimen handling for ACTH (prechilled plastic/siliconized EDTA tubes to prevent adherence to glass and degradation), emphasizing the importance of pre-analytical variables in hormone measurement."
+  },
+  {
+    "num": 98,
+    "difficulty": "⬥ Hard",
+    "topic": "Topic 2: Thyroid Gland – Anatomy & Biosynthesis",
+    "scenario": "A medical student is studying for boards and is asked to compare Primary vs. Secondary Hyperparathyroidism in terms of PTH and calcium levels. She also needs to recall what distinguishes these from Hypoparathyroidism.",
+    "question": "Which laboratory pattern CORRECTLY distinguishes Primary Hyperparathyroidism, Secondary Hyperparathyroidism, and Hypoparathyroidism?",
+    "options": {
+      "A": "All three conditions share the same lab pattern: HIGH PTH and HIGH Calcium",
+      "B": "Primary Hyperparathyroidism: HIGH PTH + HIGH Ionized Calcium (adenoma/carcinoma/hyperplasia – autonomous excess); Secondary Hyperparathyroidism: HIGH PTH + LOW Ionized Calcium (compensatory response to Vit. D deficiency or renal failure); Hypoparathyroidism: LOW PTH + LOW Calcium (injury/removal/autoimmune destruction of parathyroid gland)",
+      "C": "Primary Hyperparathyroidism: LOW PTH + HIGH Calcium; Secondary: LOW PTH + LOW Calcium; Hypoparathyroidism: HIGH PTH + LOW Calcium",
+      "D": "Primary Hyperparathyroidism: HIGH PTH + LOW Calcium; Secondary: LOW PTH + HIGH Calcium; Hypoparathyroidism: NORMAL PTH + LOW Calcium"
+    },
+    "correct": "B",
+    "rationale": "The three PTH-related disorders are distinguished as follows: PRIMARY HYPERPARATHYROIDISM: HIGH PTH + HIGH IONIZED CALCIUM – caused by autonomous overproduction of PTH from parathyroid ADENOMA (most common), carcinoma, or hyperplasia. The gland produces excess PTH regardless of calcium levels. SECONDARY HYPERPARATHYROIDISM: HIGH PTH + LOW IONIZED CALCIUM – a COMPENSATORY response to chronic hypocalcemia from VITAMIN D DEFICIENCY or RENAL FAILURE; PTH rises appropriately but cannot correct the underlying deficiency. HYPOPARATHYROIDISM: LOW PTH + LOW CALCIUM – caused by injury to or unintentional REMOVAL of the parathyroid gland (e.g., during thyroid surgery), autoimmune destruction, or other causes. Treatment: calcium supplements. This triad is a high-yield concept for board examinations."
+  },
+  {
+    "num": 99,
+    "difficulty": "⬥ Moderate",
+    "topic": "Topic 2: Thyroid Gland – Anatomy & Biosynthesis",
+    "scenario": "A biochemistry student asks why the parathyroid gland is especially vulnerable to accidental removal during thyroid surgery, even by experienced surgeons.",
+    "question": "Which anatomical characteristic of the parathyroid gland makes it prone to accidental removal during thyroid surgery?",
+    "options": {
+      "A": "The parathyroid gland is located in the brain near the hypothalamus, making it accessible during neck surgery",
+      "B": "The parathyroid gland is the SMALLEST endocrine gland in the body; it is located on or NEAR THE THYROID CAPSULE or SOMETIMES WITHIN THE THYROID GLAND ITSELF, making it difficult to identify and preserve during thyroidectomy",
+      "C": "The parathyroid gland is located in the adrenal cortex, which is in the surgical field during thyroid removal",
+      "D": "The parathyroid gland is attached to the trachea and is removed as part of every standard thyroidectomy"
+    },
+    "correct": "B",
+    "rationale": "The PARATHYROID GLAND is the SMALLEST ENDOCRINE GLAND IN THE BODY, typically weighing only 30–40 mg each. There are usually four parathyroid glands, and they are located on or NEAR THE THYROID CAPSULE – in close proximity to the posterior thyroid surface. Sometimes they are located WITHIN THE THYROID GLAND ITSELF (embedded/intrathyroidal). This anatomical proximity and small size make them DIFFICULT TO IDENTIFY and PRESERVE during thyroidectomy. Accidental removal results in HYPOPARATHYROIDISM with LOW PTH and LOW CALCIUM → TETANY and other symptoms of hypocalcemia. This is a well-recognized surgical complication requiring post-operative monitoring of calcium and PTH levels. Treatment: CALCIUM SUPPLEMENT."
+  },
+  {
+    "num": 100,
+    "difficulty": "⬥ Hard",
+    "topic": "Topic 2: Thyroid Gland – Anatomy & Biosynthesis",
+    "scenario": "A 52-year-old woman undergoes total thyroidectomy for thyroid cancer. Post-operatively, she develops hypocalcemia and is started on calcium supplements. Follow-up lab work shows: TSH = HIGH, T3/T4 = LOW, PTH = LOW, Ionized Calcium = LOW. Thyroglobulin (Tg) = undetectable post-operatively but rises 6 months later.",
+    "question": "Which comprehensive interpretation of these post-thyroidectomy findings is MOST CORRECT?",
+    "options": {
+      "A": "Rising Tg indicates bone metastasis of medullary thyroid carcinoma; low PTH is expected after adrenalectomy; high TSH is normal post-surgery",
+      "B": "HIGH TSH + LOW T3/T4 = Expected post-thyroidectomy HYPOTHYROIDISM (no thyroid tissue → no T3/T4 → compensatory HIGH TSH); LOW PTH + LOW Calcium = HYPOPARATHYROIDISM from unintentional parathyroid removal (treat with calcium supplements); RISING THYROGLOBULIN = indicator of RECURRENT or METASTATIC FOLLICULAR CELL-DERIVED THYROID CANCER (Tg should be undetectable after total thyroidectomy)",
+      "C": "HIGH TSH + LOW T3/T4 = Subclinical hypothyroidism; rising Tg = normal thyroid regeneration; LOW PTH = appropriate post-surgical response",
+      "D": "LOW PTH + LOW Calcium = Primary hyperparathyroidism with bone resorption; rising Tg = expected after any major surgery due to stress response"
+    },
+    "correct": "B",
+    "rationale": "This integrated case illustrates multiple post-thyroidectomy findings: (1) HIGH TSH + LOW T3/T4: After TOTAL THYROIDECTOMY, no thyroid tissue remains to produce T3/T4; the pituitary COMPENSATORILY raises TSH (primary hypothyroidism pattern). The patient requires THYROID HORMONE REPLACEMENT. (2) LOW PTH + LOW CALCIUM (HYPOPARATHYROIDISM): Unintentional removal or injury to parathyroid glands during thyroidectomy → deficient PTH → HYPOCALCEMIA → TETANY; TREATMENT: CALCIUM SUPPLEMENT; EDTA plasma collected for PTH measurement by ECLIA. (3) RISING THYROGLOBULIN (Tg): After TOTAL THYROIDECTOMY for thyroid cancer, Tg should be UNDETECTABLE; a RISING Tg is a strong indicator of RECURRENT or METASTATIC FOLLICULAR CELL-DERIVED THYROID CANCER (papillary or follicular), prompting further workup (Tg is NOT a part of routine thyroid function tests – it is a tumor marker)."
+  }
+]

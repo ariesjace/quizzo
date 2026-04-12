@@ -4,10 +4,8 @@ import { useState } from 'react';
 import { Question } from '@/types';
 
 const TOPICS = [
-  'Topic 1: Hemoglobin Metabolism',
-  'Topic 2: RBC Abnormalities',
-  'Topic 3: Introduction and Classification of Anemia; Microcytic Anemias',
-  'Topic 4: Macrocytic and Normocytic Anemias',
+  'Topic 1: Adrenal Gland – Anatomy & Biosynthesis',
+  'Topic 2: Thyroid Gland – Anatomy & Biosynthesis',
 ];
 
 const DIFFICULTIES = ['⬥ Easy', '⬥ Moderate', '⬥ Difficult'];
